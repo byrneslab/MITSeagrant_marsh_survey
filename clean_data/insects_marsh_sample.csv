@@ -1,0 +1,3418 @@
+"Site","Transect","Quadrat","Species","Count","N_Squares"
+"EP",1,1,"Acrodactyla sp",1,1
+"EP",1,1,"callitula sp",2,2
+"EP",1,1,"Cecidomyidae",6,5
+"EP",1,1,"Chaetopsis sp.",2,2
+"EP",1,1,"Chloropidae",9,9
+"EP",1,1,"Clubonia sp",1,1
+"EP",1,1,"Delphacodes",1,2
+"EP",1,1,"Dohrniphora sp",2,2
+"EP",1,1,"Dolichopodidae",1,2
+"EP",1,1,"Hebridae",2,2
+"EP",1,1,"Linyphidae",0,1
+"EP",1,1,"Littorina littorea",4,4
+"EP",1,1,"Orobatid mite",1,2
+"EP",1,1,"Paraclius sp.",1,2
+"EP",1,1,"Prokelisia sp",1,1
+"EP",1,1,"Reduviidae",1,1
+"EP",1,1,"Tipulidae",1,1
+"EP",1,1,"Trigonotylus sp",5,6
+"EP",1,1,"Tytthus sp.",7,7
+"EP",1,3,"Cecidomyidae",9,6
+"EP",1,3,"Chaetopsis sp.",1,1
+"EP",1,3,"Chloropidae",6,4
+"EP",1,3,"Delphacodes",30,11
+"EP",1,3,"Erythrid mite",3,3
+"EP",1,3,"Littorina littorea",3,3
+"EP",1,3,"Megamealus sp.",12,7
+"EP",1,3,"Orobatid mite",147,12
+"EP",1,3,"Paraclius sp.",6,6
+"EP",1,3,"Prokelisia sp",6,3
+"EP",1,3,"Trigonotylus sp",2,2
+"EP",1,3,"Tytthus sp.",1,1
+"EP",1,5,"Amphipoda",5,4
+"EP",1,5,"Cecidomyidae",13,7
+"EP",1,5,"Chloropidae",11,7
+"EP",1,5,"Orobatid mite",7,4
+"EP",1,5,"Venzilla parvus",1,1
+"EP",1,5,NA,3,8
+"EP",2,1,"Amphipoda",1,1
+"EP",2,1,"callitula sp",12,7
+"EP",2,1,"Cecidomyidae",33,15
+"EP",2,1,"Chaetopsis sp.",1,1
+"EP",2,1,"Chloropidae",46,12
+"EP",2,1,"Cicadellidae",5,4
+"EP",2,1,"Clubonia sp",14,7
+"EP",2,1,"Delphacodes",33,11
+"EP",2,1,"Hydrophilidae larvae",3,3
+"EP",2,1,"Linyphidae",1,1
+"EP",2,1,"long antenna true bug",1,1
+"EP",2,1,"Megamealus sp.",12,6
+"EP",2,1,"Mycetophilidae ",1,1
+"EP",2,1,"Ochlerotatus sollicitans",3,2
+"EP",2,1,"Orobatid mite",14,4
+"EP",2,1,"Paraclius sp.",7,5
+"EP",2,1,"Prokelisia sp",7,3
+"EP",2,1,"Trigonotylus sp",16,9
+"EP",2,1,"Trombid mite",1,1
+"EP",2,3,"Amphipoda",1,1
+"EP",2,3,"callitula sp",1,1
+"EP",2,3,"Cecidomyidae",1,1
+"EP",2,3,"Chloropidae",8,8
+"EP",2,3,"Cicadellidae",2,2
+"EP",2,3,"Erythrid mite",6,5
+"EP",2,3,"Gryllus sp.",1,1
+"EP",2,3,"Littorina littorea",2,2
+"EP",2,3,"Megamealus sp.",2,2
+"EP",2,3,"Orobatid mite",4,4
+"EP",2,3,"Salticidae",1,1
+"EP",2,3,"Trombid mite",7,7
+"EP",2,5,"Cecidomyidae",15,7
+"EP",2,5,"Chloropidae",7,7
+"EP",2,5,"Cicadellidae",7,6
+"EP",2,5,"Delphacodes",8,5
+"EP",2,5,"Erythrid mite",10,8
+"EP",2,5,"Megamealus sp.",7,5
+"EP",2,5,"Mycetophilidae ",1,1
+"EP",2,5,"Orobatid mite",13,5
+"EP",2,5,"Prokelisia sp",4,3
+"EP",3,1,"Acrodactyla sp",1,1
+"EP",3,1,"callitula sp",11,6
+"EP",3,1,"Cecidomyidae",5,2
+"EP",3,1,"Chaetopsis sp.",4,2
+"EP",3,1,"Chloropidae",11,8
+"EP",3,1,"Cicadellidae",1,1
+"EP",3,1,"Delphacodes",6,4
+"EP",3,1,"Dolichopodidae",1,1
+"EP",3,1,"Grammonota trivitatta",2,2
+"EP",3,1,"Hebridae",2,2
+"EP",3,1,"Lasius",1,1
+"EP",3,1,"Linyphidae",8,6
+"EP",3,1,"Megamealus sp.",9,7
+"EP",3,1,"Orobatid mite",8,4
+"EP",3,1,"Prokelisia sp",7,6
+"EP",3,1,"Trigonotylus sp",8,4
+"EP",3,1,"Tytthus sp.",3,2
+"EP",3,3,"callitula sp",1,1
+"EP",3,3,"Cecidomyidae",25,12
+"EP",3,3,"Chloropidae",8,6
+"EP",3,3,"Clubonia sp",1,1
+"EP",3,3,"Erythrid mite",18,10
+"EP",3,3,"Orobatid mite",25,15
+"EP",3,3,"Paraclius sp.",1,1
+"EP",3,3,"Prokelisia sp",3,2
+"EP",3,3,"Trombid mite",1,1
+"EP",3,3,"Venzilla parvus",3,3
+"EP",3,5,"Black ant (Formicidae)",1,1
+"EP",3,5,"callitula sp",6,3
+"EP",3,5,"Cecidomyidae",2,1
+"EP",3,5,"Chloropidae",9,6
+"EP",3,5,"Cicadellidae",1,1
+"EP",3,5,"Delphacodes",5,3
+"EP",3,5,"Erythrid mite",7,5
+"EP",3,5,"Megamealus sp.",9,6
+"EP",3,5,"Orobatid mite",23,8
+"EP",3,5,"Paraclius sp.",1,1
+"EP",3,5,"Prokelisia sp",24,8
+"EP",4,1,"callitula sp",9,8
+"EP",4,1,"Cecidomyidae",2,1
+"EP",4,1,"Chaetopsis sp.",1,1
+"EP",4,1,"Chloropidae",5,4
+"EP",4,1,"Delphacodes",5,4
+"EP",4,1,"Dolichopodidae",2,1
+"EP",4,1,"Grammonota trivitatta",5,4
+"EP",4,1,"Lasius",1,1
+"EP",4,1,"Linyphidae",11,8
+"EP",4,1,"long nose black beetle",1,1
+"EP",4,1,"Megamealus sp.",8,6
+"EP",4,1,"Orobatid mite",5,3
+"EP",4,1,"Prokelisia sp",8,5
+"EP",4,1,"Tipula sp.",1,1
+"EP",4,1,"Trigonotylus sp",6,5
+"EP",4,3,"Chaetopsis sp.",2,1
+"EP",4,3,"Chloropidae",26,1
+"EP",4,3,"Clubonia sp",1,1
+"EP",4,3,"Noctuidae",1,1
+"EP",4,3,"Ochlerotatus sollicitans",1,1
+"EP",4,3,"Prokelisia sp",12,1
+"EP",4,3,"Reduviidae",10,1
+"EP",4,3,"Spathius sp.",1,1
+"EP",4,3,"Tipulidae",1,1
+"EP",4,5,"Amphipoda",6,6
+"EP",4,5,"callitula sp",16,9
+"EP",4,5,"Cecidomyidae",65,17
+"EP",4,5,"Chloropidae",19,7
+"EP",4,5,"Delphacodes",14,9
+"EP",4,5,"Long nose black beetle",4,1
+"EP",4,5,"Megamealus sp.",4,2
+"EP",4,5,"Paraclius sp.",5,4
+"EP",4,5,"Purple butt fly",11,6
+"EP",4,5,"Trombid mite",33,10
+"EP",4,5,"UNK salticidae",1,1
+"EP",4,5,"Venzilla parvus",6,4
+"EP",5,1,"Acrodactyla sp",4,4
+"EP",5,1,"callitula sp",3,2
+"EP",5,1,"Cecidomyidae",1,1
+"EP",5,1,"Chaetopsis sp.",3,1
+"EP",5,1,"Dohrniphora sp",18,7
+"EP",5,1,"Littorina littorea",5,4
+"EP",5,1,"Mycetophilidae ",3,2
+"EP",5,1,"Orobatid mite",6,5
+"EP",5,1,"Prokelisia sp",20,9
+"EP",5,1,"pyrrhocoridae sp",3,2
+"EP",5,1,"Sminthuridae",7,3
+"EP",5,1,"Trombid mite",1,1
+"EP",5,1,"UKN mosquito ",17,8
+"EP",5,1,NA,0,3
+"EP",5,3,"Cecidomyidae",4,2
+"EP",5,3,"Chloropidae",26,6
+"EP",5,3,"Megamealus sp.",13,4
+"EP",5,3,"Mycetophilidae ",2,1
+"EP",5,3,"Paraclius sp.",5,3
+"EP",5,3,"Prokelisia sp",6,2
+"EP",5,3,"Tipulidae",1,1
+"EP",5,3,"Trigonotylus sp",1,1
+"EP",5,3,"Trombid mite",2,2
+"EP",5,3,NA,0,1
+"EP",5,5,"Amphipoda",1,1
+"EP",5,5,"Black ant (Formicidae)",11,4
+"EP",5,5,"callitula sp",4,3
+"EP",5,5,"Cecidomyidae",16,5
+"EP",5,5,"Chloropidae",11,6
+"EP",5,5,"Cicadellidae",1,1
+"EP",5,5,"Clubonia sp",10,4
+"EP",5,5,"Cyphon sp.",1,1
+"EP",5,5,"Delphacodes",5,3
+"EP",5,5,"Erythrid mite",8,3
+"EP",5,5,"Grammonota trivitatta",5,2
+"EP",5,5,"Hyposinga variabilis",2,1
+"EP",5,5,"Linyphidae",11,5
+"EP",5,5,"Lygaeidae",2,1
+"EP",5,5,"Orobatid mite",13,5
+"EP",5,5,"Paraclius sp.",3,3
+"EP",5,5,"Pardosa sp.",1,1
+"EP",5,5,"Tytthus sp.",8,3
+"EP",5,5,"Venzilla parvus",11,5
+"EP",6,1,"Cecidomyidae",13,8
+"EP",6,1,"Chloropidae",11,6
+"EP",6,1,NA,0,3
+"EP",6,3,"callitula sp",5,2
+"EP",6,3,"Cecidomyidae",20,8
+"EP",6,3,"Chaetopsis sp.",3,1
+"EP",6,3,"Chloropidae",20,10
+"EP",6,3,"Clubonia sp",11,7
+"EP",6,3,"Delphacodes",11,5
+"EP",6,3,"Grammonota trivitatta",1,1
+"EP",6,3,"Gryllus sp.",1,1
+"EP",6,3,"Linyphidae",4,3
+"EP",6,3,"Megamealus sp.",4,2
+"EP",6,3,"Orobatid mite",9,4
+"EP",6,3,"Paraclius sp.",4,2
+"EP",6,3,"Prokelisia sp",9,4
+"EP",6,3,"Salticidae",1,1
+"EP",6,3,"Tytthus sp.",2,1
+"EP",6,5,"Amphipoda",2,1
+"EP",6,5,"Black ant (Formicidae)",1,1
+"EP",6,5,"Cecidomyidae",9,4
+"EP",6,5,"Chloropidae",12,6
+"EP",6,5,"Cicadellidae",3,1
+"EP",6,5,"Clubonia sp",2,1
+"EP",6,5,"Delphacodes",5,3
+"EP",6,5,"Erythrid mite",1,1
+"EP",6,5,"Grammonota trivitatta",3,2
+"EP",6,5,"Hogna sp",2,1
+"EP",6,5,"Hyposinga variabilis",2,1
+"EP",6,5,"Lasius",1,1
+"EP",6,5,"Linyphidae",8,3
+"EP",6,5,"Orobatid mite",7,3
+"EP",6,5,"Paraclius sp.",6,4
+"EP",6,5,"Prokelisia sp",1,1
+"EP",6,5,"Tytthus sp.",2,1
+"EP",6,5,"Venzilla parvus",5,1
+"EP",7,1,"Anurida maritima",1,1
+"EP",7,1,"callitula sp",4,3
+"EP",7,1,"Cecidomyidae",11,6
+"EP",7,1,"Chaetopsis sp.",1,1
+"EP",7,1,"Chloropidae",26,9
+"EP",7,1,"Clubonia sp",1,1
+"EP",7,1,"Delphacodes",11,4
+"EP",7,1,"Dohrniphora sp",1,1
+"EP",7,1,"Erythrid mite",5,5
+"EP",7,1,"Grammonota trivitatta",14,9
+"EP",7,1,"Hebridae",2,2
+"EP",7,1,"Hydrophilidae larvae",2,2
+"EP",7,1,"Hyposinga variabilis",1,1
+"EP",7,1,"Linyphidae",7,5
+"EP",7,1,"Littorina littorea",1,1
+"EP",7,1,"Megamealus sp.",3,2
+"EP",7,1,"Mycetophilidae ",8,5
+"EP",7,1,"Naemia sp.",1,1
+"EP",7,1,"Orobatid mite",8,7
+"EP",7,1,"Paraclius sp.",2,2
+"EP",7,1,"Prokelisia sp",2,1
+"EP",7,1,"Tipula sp.",2,1
+"EP",7,1,"Tipulidae",2,2
+"EP",7,1,"Trigonotylus sp",5,4
+"EP",7,1,"Venzilla parvus",1,1
+"EP",7,3,"Amphipoda",3,3
+"EP",7,3,"callitula sp",4,2
+"EP",7,3,"Clubonia sp",7,7
+"EP",7,3,"Dohrniphora sp",8,5
+"EP",7,3,"hemiptera nymph",17,6
+"EP",7,3,"Intercella sp.",14,6
+"EP",7,3,"Mycetophilidae ",65,14
+"EP",7,3,"Orabatis hemelius",9,5
+"EP",7,3,"Orobatid mite",2,1
+"EP",7,3,"Reduviidae",9,6
+"EP",7,3,"Sminthuridae",5,4
+"EP",7,3,"Trombid mite",3,2
+"EP",7,5,"Cecidomyidae",7,6
+"EP",7,5,"Chloropidae",7,5
+"EP",7,5,"Lasius",1,1
+"EP",7,5,"Orobatid mite",11,6
+"EP",7,5,"Paraclius sp.",9,6
+"EP",8,1,"Acrodactyla sp",3,2
+"EP",8,1,"callitula sp",8,7
+"EP",8,1,"Cecidomyidae",7,5
+"EP",8,1,"Chaetopsis sp.",3,2
+"EP",8,1,"Chloropidae",25,15
+"EP",8,1,"Cyphon sp.",1,1
+"EP",8,1,"Delphacodes",2,2
+"EP",8,1,"Dohrniphora sp",1,1
+"EP",8,1,"Grammonota trivitatta",1,1
+"EP",8,1,"Hydrophilidae larvae",1,1
+"EP",8,1,"Linyphidae",5,3
+"EP",8,1,"Littorina littorea",3,3
+"EP",8,1,"Long nose black beetle",1,1
+"EP",8,1,"Lygaeidae",1,1
+"EP",8,1,"Megamealus sp.",2,2
+"EP",8,1,"Mycetophilidae ",3,2
+"EP",8,1,"Orobatid mite",1,1
+"EP",8,1,"Paraclius sp.",4,3
+"EP",8,1,"Spathius sp.",1,1
+"EP",8,3,"Cecidomyidae",2,1
+"EP",8,3,"Chaetopsis sp.",2,2
+"EP",8,3,"Chloropidae",11,5
+"EP",8,3,"Clubonia sp",2,2
+"EP",8,3,"Dohrniphora sp",12,5
+"EP",8,3,"Dolichopodidae",8,6
+"EP",8,3,"Looks like tythus unknown 91",1,1
+"EP",8,3,"Megamealus sp.",2,2
+"EP",8,3,"Mycetophilidae ",4,4
+"EP",8,3,"Ochlerotatus sollicitans",6,4
+"EP",8,3,"Orobatid mite",2,2
+"EP",8,3,"Prokelisia sp",1,1
+"EP",8,3,"Reduviidae",3,2
+"EP",8,3,"Tipula sp.",1,1
+"EP",8,3,"Trigonotylus sp",1,1
+"EP",8,3,"Tytthus sp.",5,4
+"EP",8,3,"Unknown fat bug 93",1,1
+"EP",8,3,"Unknown wasp unknown 92",1,1
+"EP",8,5,"Acantheperia stellata",1,1
+"EP",8,5,"callitula sp",5,5
+"EP",8,5,"Chloropidae",9,9
+"EP",8,5,"Cicadellidae",1,1
+"EP",8,5,"Cyphon sp.",1,1
+"EP",8,5,"Erythrid mite",1,1
+"EP",8,5,"Gryllus sp.",1,1
+"EP",8,5,"Hyposinga variabilis",1,1
+"EP",8,5,"Linyphidae",1,1
+"EP",8,5,"Orobatid mite",6,6
+"EP",9,1,"Acrodactyla sp",1,1
+"EP",9,1,"Amphipoda",5,5
+"EP",9,1,"Anurida maritima",1,1
+"EP",9,1,"callitula sp",2,2
+"EP",9,1,"Cecidomyidae",6,5
+"EP",9,1,"Chaetopsis sp.",2,2
+"EP",9,1,"Chloropidae",1,1
+"EP",9,1,"Clubonia sp",3,3
+"EP",9,1,"Delphacodes",1,1
+"EP",9,1,"Dohrniphora sp",1,1
+"EP",9,1,"Dolichopodidae",2,2
+"EP",9,1,"Grammonota trivitatta",4,4
+"EP",9,1,"Linyphidae",4,4
+"EP",9,1,"Littorina littorea",2,2
+"EP",9,1,"Orobatid mite",7,4
+"EP",9,1,"Prokelisia sp",1,1
+"EP",9,1,"Tipula sp.",1,1
+"EP",9,1,"Tipulidae",1,1
+"EP",9,1,"Trigonotylus sp",1,1
+"EP",9,1,"Tytthus sp.",3,3
+"EP",9,5,"Lasius",1,1
+"EP",9,5,"Long nose black beetle",1,1
+"EP",9,5,"pyrrhocoridae sp",1,1
+"EP",9,5,"Spotted spider",1,1
+"EP",9,5,"Trombid mite",4,4
+"EP",9,5,"Venzilla parvus",4,4
+"EP",9,5,NA,0,8
+"EP",10,3,"callitula sp",2,1
+"EP",10,3,"Cecidomyidae",29,11
+"EP",10,3,"Chloropidae",23,11
+"EP",10,3,"Delphacodes",6,5
+"EP",10,3,"Orobatid mite",7,3
+"EP",10,3,"Paraclius sp.",2,1
+"EP",10,5,"Chloropidae",12,7
+"EP",10,5,"Cyphon sp.",2,2
+"EP",10,5,"long nose black beetle",2,2
+"EP",10,5,"Marpissa sp",1,1
+"EP",10,5,"Orobatid mite",34,7
+"EP",10,5,"Pardosa sp.",4,4
+"EP",10,5,"Venzilla parvus",1,1
+"EP",10,5,NA,0,2
+"EP",11,1,"Amphipoda",14,7
+"EP",11,1,"callitula sp",2,2
+"EP",11,1,"Cecidomyidae",6,3
+"EP",11,1,"Chloropidae",23,9
+"EP",11,1,"Clubonia sp",5,3
+"EP",11,1,"Delphacodes",7,3
+"EP",11,1,"Grammonota trivitatta",1,1
+"EP",11,1,"Linyphidae",10,7
+"EP",11,1,"Megamealus sp.",3,2
+"EP",11,1,"Orobatid mite",6,4
+"EP",11,1,"Paraclius sp.",2,2
+"EP",11,1,"Prokelisia sp",3,3
+"EP",11,1,"Trigonotylus sp",2,2
+"EP",11,3,"Amphipoda",29,15
+"EP",11,3,"beetle",5,5
+"EP",11,3,"Cecidomyidae",49,18
+"EP",11,3,"Chaetopsis sp.",1,1
+"EP",11,3,"Chloropidae",56,19
+"EP",11,3,"Clubonia sp",23,11
+"EP",11,3,"Cyphon sp.",2,2
+"EP",11,3,"Delphacodes",41,14
+"EP",11,3,"Erythrid mite",17,9
+"EP",11,3,"Grammonota trivitatta",8,7
+"EP",11,3,"Linyphidae",3,3
+"EP",11,3,"Megamealus sp.",1,1
+"EP",11,3,"Orobatid mite",45,16
+"EP",11,3,"Paraclius sp.",11,7
+"EP",11,3,"Prokelisia sp",25,10
+"EP",11,3,"Trombid mite",3,2
+"EP",11,3,"Tytthus sp.",15,4
+"EP",11,3,"Venzilla parvus",39,11
+"EP",12,1,"Amphipoda",19,9
+"EP",12,1,"Clubonia sp",9,3
+"EP",12,1,"Delphacodes",10,4
+"EP",12,1,"Erythrid mite",9,4
+"EP",12,1,"Hyposinga variabilis",1,1
+"EP",12,1,"Linyphidae",2,1
+"EP",12,1,"Megamealus sp.",2,1
+"EP",12,1,"Orobatid mite",8,4
+"EP",12,1,"Pardosa sp.",2,1
+"EP",12,1,"Prokelisia sp",20,7
+"EP",12,1,"Trombid mite",6,3
+"EP",12,1,"Venzilla parvus",15,8
+"EP",12,5,"Amphipoda",3,2
+"EP",12,5,"callitula sp",3,3
+"EP",12,5,"Cecidomyidae",32,10
+"EP",12,5,"Chloropidae",22,10
+"EP",12,5,"Clubonia sp",2,2
+"EP",12,5,"Lasius",1,1
+"EP",12,5,"Orobatid mite",328,20
+"EP",12,5,"Paraclius sp.",5,4
+"EP",12,5,"Purple butt fly",2,2
+"EP",12,5,"Tetragnatha sp",1,1
+"EP",12,5,"Venzilla parvus",18,10
+"GC",1,1,"Amphipoda",76,12
+"GC",1,1,"Anurida maritima",281,15
+"GC",1,1,"callitula sp",8,7
+"GC",1,1,"Dohrniphora sp",25,10
+"GC",1,1,"Hebridae",2,2
+"GC",1,1,"Orobatid mite",14,9
+"GC",1,1,"Paraclius sp.",2,2
+"GC",1,1,"Prokelisia sp",121,15
+"GC",1,1,"Trombid mite",1,1
+"GC",1,3,"Acrodactyla sp",1,1
+"GC",1,3,"Amphipoda",87,13
+"GC",1,3,"callitula sp",3,2
+"GC",1,3,"Dohrniphora sp",1,1
+"GC",1,3,"Haplogonatopus",1,1
+"GC",1,3,"Hebridae",8,7
+"GC",1,3,"hemiptera nymph",55,12
+"GC",1,3,"Linyphidae",8,7
+"GC",1,3,"Orobatid mite",12,8
+"GC",1,3,"Pardosa sp.",11,8
+"GC",1,3,"Prokelisia sp",8,6
+"GC",1,3,"Trombid mite",5,5
+"GC",1,5,"Amphipoda",2,2
+"GC",1,5,"Chloropidae",1,1
+"GC",1,5,"Habronattus",1,1
+"GC",1,5,"Orobatid mite",3,3
+"GC",1,5,"Prokelisia sp",2,2
+"GC",1,5,"Spathius sp.",1,1
+"GC",1,5,"Venzilla parvus",3,3
+"GC",1,5,NA,0,4
+"GC",2,1,"Amphipoda",64,14
+"GC",2,1,"Anurida maritima",476,14
+"GC",2,1,"callitula sp",2,2
+"GC",2,1,"Cecidomyidae",3,2
+"GC",2,1,"Delphacodes",55,14
+"GC",2,1,"Paraclius sp.",4,4
+"GC",2,1,"Prokelisia sp",53,14
+"GC",2,1,"Trigonotylus sp",1,1
+"GC",2,1,"Tytthus sp.",4,4
+"GC",2,1,"Xylocopinae",1,1
+"GC",2,3,"Amphipoda",473,15
+"GC",2,3,"callitula sp",30,13
+"GC",2,3,"Chaetopsis sp.",2,2
+"GC",2,3,"Clubonia sp",14,9
+"GC",2,3,"Conocephalus spartinae",1,1
+"GC",2,3,"Hebridae",4,4
+"GC",2,3,"hemiptera nymph",30,11
+"GC",2,3,"Hydrophilidae larvae",1,1
+"GC",2,3,"Linyphidae",12,6
+"GC",2,3,"Orobatid mite",20,10
+"GC",2,3,"Paraclius sp.",15,10
+"GC",2,3,"Pardosa sp.",196,13
+"GC",2,3,"Prokelisia sp",57,13
+"GC",2,3,"Trigonotylus sp",5,5
+"GC",2,3,"Trombid mite",2,2
+"GC",2,5,"Amphipoda",4,2
+"GC",2,5,"callitula sp",1,1
+"GC",2,5,"Dohrniphora sp",5,4
+"GC",2,5,"Hebridae",3,3
+"GC",2,5,"Linyphidae",4,3
+"GC",2,5,"Melampus bidentata",2,1
+"GC",2,5,"Orobatid mite",65,14
+"GC",2,5,"Paraclius sp.",1,1
+"GC",2,5,"Pardosa sp.",8,6
+"GC",2,5,"Prokelisia sp",1,1
+"GC",2,5,"Trombid mite",1,1
+"GC",2,5,"Venzilla parvus",12,9
+"GC",3,1,"Acrodactyla sp",1,1
+"GC",3,1,"Amphipoda",179,14
+"GC",3,1,"Anurida maritima",26,7
+"GC",3,1,"Black ant (Formicidae)",1,1
+"GC",3,1,"callitula sp",11,5
+"GC",3,1,"Cecidomyidae",3,2
+"GC",3,1,"Chaetopsis sp.",3,1
+"GC",3,1,"Chloropidae",5,3
+"GC",3,1,"Delphacodes",48,14
+"GC",3,1,"Grammonota trivitatta",4,2
+"GC",3,1,"Hyposinga variabilis",1,1
+"GC",3,1,"Orobatid mite",8,3
+"GC",3,1,"Paraclius sp.",4,3
+"GC",3,1,"Tipula sp.",1,1
+"GC",3,1,"Trigonotylus sp",2,1
+"GC",3,3,"Acrodactyla sp",3,3
+"GC",3,3,"Amphipoda",26,15
+"GC",3,3,"callitula sp",1,1
+"GC",3,3,"Chloropidae",8,5
+"GC",3,3,"Linyphidae",9,8
+"GC",3,3,"Orobatid mite",12,9
+"GC",3,3,"Paraclius sp.",6,5
+"GC",3,3,"Prokelisia sp",6,4
+"GC",3,3,"Trombid mite",4,3
+"GC",3,3,"Tytthus sp.",13,9
+"GC",3,5,"callitula sp",1,1
+"GC",3,5,"Cecidomyidae",5,4
+"GC",3,5,"Chloropidae",3,3
+"GC",3,5,"Grammonota trivitatta",4,4
+"GC",3,5,"Orobatid mite",10,7
+"GC",3,5,"Paraclius sp.",2,2
+"GC",3,5,"Tytthus sp.",9,7
+"GC",3,5,"Venzilla parvus",1,1
+"GC",3,5,NA,0,10
+"GC",4,1,"Acrodactyla sp",1,1
+"GC",4,1,"Amphipoda",45,13
+"GC",4,1,"Anurida maritima",21,8
+"GC",4,1,"callitula sp",5,4
+"GC",4,1,"Cecidomyidae",1,1
+"GC",4,1,"Chaetopsis sp.",1,1
+"GC",4,1,"Chloropidae",2,2
+"GC",4,1,"Cicadellidae",2,2
+"GC",4,1,"Clubonia sp",5,4
+"GC",4,1,"Delphacodes",32,9
+"GC",4,1,"Grammonota trivitatta",1,1
+"GC",4,1,"Hydrophilidae larvae",1,1
+"GC",4,1,"Linyphidae",20,12
+"GC",4,1,"Orobatid mite",15,7
+"GC",4,1,"Paraclius sp.",4,3
+"GC",4,1,"Pardosa sp.",7,4
+"GC",4,1,"Prokelisia sp",1,1
+"GC",4,3,"Amphipoda",127,15
+"GC",4,3,"Anurida maritima",10,6
+"GC",4,3,"Chloropidae",1,1
+"GC",4,3,"Cicadellidae",2,2
+"GC",4,3,"Clubonia sp",5,5
+"GC",4,3,"Conocephalus spartinae",3,2
+"GC",4,3,"Dohrniphora sp",10,5
+"GC",4,3,"Gryllus sp.",1,1
+"GC",4,3,"Haplogonatopus",2,2
+"GC",4,3,"Hebridae",11,6
+"GC",4,3,"hemiptera nymph",63,11
+"GC",4,3,"Linyphidae",8,6
+"GC",4,3,"Melampus bidentata",2,2
+"GC",4,3,"Orobatid mite",37,18
+"GC",4,3,"Paraclius sp.",6,6
+"GC",4,3,"Pardosa sp.",15,9
+"GC",4,3,"Prokelisia sp",33,10
+"GC",4,3,"Spathius sp.",4,3
+"GC",4,3,"Trombid mite",15,8
+"GC",4,3,"Tytthus sp.",3,3
+"GC",4,3,"Venzilla parvus",1,1
+"GC",5,1,"Amphipoda",7,4
+"GC",5,1,"callitula sp",7,6
+"GC",5,1,"Clubonia sp",11,7
+"GC",5,1,"Dohrniphora sp",9,5
+"GC",5,1,"Intercella sp.",16,7
+"GC",5,1,"Orobatid mite",13,7
+"GC",5,1,"Paraclius sp.",10,7
+"GC",5,1,"Pardosa sp.",8,7
+"GC",5,1,"Prokelisia sp",28,13
+"GC",5,1,"Trigonotylus sp",3,3
+"GC",5,3,"Amphipoda",6,4
+"GC",5,3,"callitula sp",2,2
+"GC",5,3,"Chloropidae",5,3
+"GC",5,3,"Clubonia sp",4,2
+"GC",5,3,"Dohrniphora sp",23,4
+"GC",5,3,"hemiptera nymph",84,4
+"GC",5,3,"Linyphidae",1,1
+"GC",5,3,"Megamealus sp.",15,1
+"GC",5,3,"Orobatid mite",13,8
+"GC",5,3,"Paraclius sp.",2,2
+"GC",5,3,"Pardosa sp.",6,3
+"GC",5,3,"Prokelisia sp",291,4
+"GC",5,3,"Thripidae sp.",1,1
+"GC",5,3,"Trombid mite",11,4
+"GC",5,3,"Venzilla parvus",11,4
+"GC",5,3,NA,0,3
+"GC",5,5,"callitula sp",1,1
+"GC",5,5,"hemiptera nymph",18,9
+"GC",5,5,"Intercella sp.",11,6
+"GC",5,5,"Linyphidae",2,2
+"GC",5,5,"Mycetophilidae ",1,1
+"GC",5,5,"Orobatid mite",64,14
+"GC",5,5,"Paraclius sp.",1,1
+"GC",5,5,"Pardosa sp.",3,3
+"GC",5,5,"Prokelisia sp",6,3
+"GC",5,5,"Trombid mite",11,1
+"GC",5,5,"Venzilla parvus",2,2
+"GC",6,1,"Amphipoda",46,14
+"GC",6,1,"callitula sp",13,7
+"GC",6,1,"Clubonia sp",5,3
+"GC",6,1,"Delphacodes",5,3
+"GC",6,1,"Hydrophilidae larvae",6,5
+"GC",6,1,"Linyphidae",20,10
+"GC",6,1,"Orobatid mite",29,10
+"GC",6,1,"Paraclius sp.",8,4
+"GC",6,1,"Prokelisia sp",3,3
+"GC",6,3,"Amphipoda",1,1
+"GC",6,3,"Chloropidae",2,2
+"GC",6,3,"Cicadellidae",2,2
+"GC",6,3,"Linyphidae",2,2
+"GC",6,3,"Orobatid mite",4,4
+"GC",6,3,"Paraclius sp.",3,3
+"GC",6,3,NA,0,1
+"GC",6,5,"Cecidomyidae",5,4
+"GC",6,5,"Melampus bidentata",6,4
+"GC",6,5,"Orobatid mite",12,8
+"GC",6,5,NA,0,4
+"GC",7,1,"Amphipoda",4,4
+"GC",7,1,"callitula sp",3,3
+"GC",7,1,"Cecidomyidae",2,2
+"GC",7,1,"Chloropidae",1,1
+"GC",7,1,"Grammonota trivitatta",1,1
+"GC",7,1,"Linyphidae",1,1
+"GC",7,1,"Orobatid mite",8,5
+"GC",7,1,"Prokelisia sp",10,6
+"GC",7,3,"Amphipoda",46,10
+"GC",7,3,"Cecidomyidae",3,3
+"GC",7,3,"Chloropidae",1,1
+"GC",7,3,"Hebridae",2,2
+"GC",7,3,"Orobatid mite",2,2
+"GC",7,3,"Paraclius sp.",5,5
+"GC",7,3,"Tytthus sp.",3,3
+"GC",7,5,"Cecidomyidae",5,2
+"GC",7,5,"Chloropidae",3,2
+"GC",7,5,"Cicadellidae",3,2
+"GC",7,5,"green eye fly",1,1
+"GC",7,5,"Habronattus",1,1
+"GC",7,5,"Hebridae",1,1
+"GC",7,5,"Orobatid mite",23,12
+"GC",7,5,"Spathius sp.",2,2
+"GC",8,1,"Amphipoda",55,13
+"GC",8,1,"callitula sp",4,4
+"GC",8,1,"Chloropidae",3,2
+"GC",8,1,"Cicadellidae",4,4
+"GC",8,1,"Cyphon sp.",1,1
+"GC",8,1,"Delphacodes",28,10
+"GC",8,1,"hemiptera nymph",18,9
+"GC",8,1,"Hydrophilidae larvae",2,1
+"GC",8,1,"Linyphidae",15,8
+"GC",8,1,"Orobatid mite",33,12
+"GC",8,1,"Paraclius sp.",8,8
+"GC",8,1,"Prokelisia sp",5,2
+"GC",8,1,"Trigonotylus sp",1,1
+"GC",8,1,"Tytthus sp.",10,10
+"GC",8,3,"Amphipoda",3,3
+"GC",8,3,"Cicadellidae",1,1
+"GC",8,3,"Grammonota trivitatta",3,3
+"GC",8,3,"Melampus bidentata",2,2
+"GC",8,3,"Orobatid mite",77,13
+"GC",8,3,"Venzilla parvus",6,5
+"GC",8,5,"Amphipoda",8,6
+"GC",8,5,"callitula sp",1,1
+"GC",8,5,"Cecidomyidae",1,1
+"GC",8,5,"Chloropidae",8,6
+"GC",8,5,"Cicadellidae",5,2
+"GC",8,5,"Clubonia sp",2,2
+"GC",8,5,"Delphacodes",1,1
+"GC",8,5,"Dohrniphora sp",4,3
+"GC",8,5,"Grammonota trivitatta",9,6
+"GC",8,5,"Linyphidae",19,8
+"GC",8,5,"Melampus bidentata",7,5
+"GC",8,5,"Orobatid mite",24,12
+"GC",8,5,"Paraclius sp.",3,2
+"GC",8,5,"Pardosa sp.",3,3
+"GC",8,5,"Prokelisia sp",8,6
+"GC",8,5,"Venzilla parvus",8,5
+"GC",9,1,"Acrodactyla sp",1,1
+"GC",9,1,"Amphipoda",18,13
+"GC",9,1,"callitula sp",3,2
+"GC",9,1,"Cecidomyidae",3,3
+"GC",9,1,"Chaetopsis sp.",6,5
+"GC",9,1,"Chloropidae",10,9
+"GC",9,1,"Clubonia sp",3,3
+"GC",9,1,"Delphacodes",4,4
+"GC",9,1,"Grammonota trivitatta",1,1
+"GC",9,1,"Haplogonatopus",1,1
+"GC",9,1,"Linyphidae",29,14
+"GC",9,1,"Orobatid mite",30,12
+"GC",9,1,"Paraclius sp.",4,4
+"GC",9,1,"Prokelisia sp",3,3
+"GC",9,1,"Trigonotylus sp",1,1
+"GC",9,3,"Acrodactyla sp",1,1
+"GC",9,3,"Amphipoda",13,11
+"GC",9,3,"Chloropidae",4,3
+"GC",9,3,"Cicadellidae",3,3
+"GC",9,3,"Erythrid mite",9,6
+"GC",9,3,"Grammonota trivitatta",4,4
+"GC",9,3,"Linyphidae",3,3
+"GC",9,3,"Melampus bidentata",2,2
+"GC",9,3,"Orobatid mite",32,9
+"GC",9,3,"Paraclius sp.",3,3
+"GC",9,3,"Prokelisia sp",3,3
+"GC",9,3,"Tytthus sp.",3,2
+"GC",9,5,"Cecidomyidae",6,6
+"GC",9,5,"Melampus bidentata",8,3
+"GC",9,5,"Orobatid mite",8,8
+"GC",9,5,NA,0,3
+"GC",10,1,"Amphipoda",7,3
+"GC",10,1,"callitula sp",1,1
+"GC",10,1,"Cecidomyidae",2,1
+"GC",10,1,"Chaetopsis sp.",2,1
+"GC",10,1,"Chloropidae",9,4
+"GC",10,1,"Cicadellidae",7,5
+"GC",10,1,"Delphacodes",19,8
+"GC",10,1,"Linyphidae",22,13
+"GC",10,1,"Megamealus sp.",5,3
+"GC",10,1,"Orobatid mite",20,8
+"GC",10,1,"Prokelisia sp",7,4
+"GC",10,1,"Trombid mite",6,3
+"GC",10,3,"Amphipoda",2,2
+"GC",10,3,"Cicadellidae",3,3
+"GC",10,3,"Orobatid mite",14,7
+"GC",10,3,"Salticidae",1,1
+"GC",10,3,"Spathius sp.",1,1
+"GC",10,3,"Trombid mite",1,1
+"GC",10,3,NA,0,3
+"GC",10,5,"Clubonia sp",1,1
+"GC",10,5,"Habronattus",1,1
+"GC",10,5,"Melampus bidentata",12,8
+"GC",10,5,"Orobatid mite",6,5
+"GC",10,5,NA,0,5
+"GC",11,1,"Acrodactyla sp",2,2
+"GC",11,1,"Amphipoda",18,8
+"GC",11,1,"callitula sp",9,7
+"GC",11,1,"Chaetopsis sp.",1,1
+"GC",11,1,"Clubonia sp",5,4
+"GC",11,1,"Dohrniphora sp",17,7
+"GC",11,1,"hemiptera nymph",5,2
+"GC",11,1,"Linyphidae",18,11
+"GC",11,1,"Orobatid mite",14,8
+"GC",11,1,"Paraclius sp.",6,6
+"GC",11,1,"Pardosa sp.",13,9
+"GC",11,1,"Prokelisia sp",6,4
+"GC",11,1,"Tipula sp.",1,1
+"GC",11,1,"Trigonotylus sp",3,3
+"GC",11,3,"callitula sp",3,3
+"GC",11,3,"Cecidomyidae",1,1
+"GC",11,3,"Cyphon sp.",1,1
+"GC",11,3,"Delphacodes",1,1
+"GC",11,3,"Orobatid mite",17,7
+"GC",11,3,"Paraclius sp.",2,2
+"GC",11,3,"Prokelisia sp",1,1
+"GC",11,3,"Spathius sp.",1,1
+"GC",11,3,"Tipula sp.",1,1
+"GC",11,3,"Trombid mite",2,2
+"GC",11,3,NA,0,4
+"GC",11,5,"Amphipoda",1,1
+"GC",11,5,"callitula sp",1,1
+"GC",11,5,"Conocephalus spartinae",1,1
+"GC",11,5,"Grammonota trivitatta",2,1
+"GC",11,5,"long nose black beetle",1,1
+"GC",11,5,"Melampus bidentata",12,7
+"GC",11,5,"Orobatid mite",5,4
+"GC",11,5,"Pardosa sp.",17,10
+"GC",11,5,"Venzilla parvus",3,2
+"GC",11,5,NA,0,1
+"GC",12,1,"Amphipoda",1,1
+"GC",12,1,"callitula sp",2,2
+"GC",12,1,"Chaetopsis sp.",1,1
+"GC",12,1,"Orobatid mite",2,2
+"GC",12,1,NA,0,9
+"GC",12,3,"Amphipoda",30,13
+"GC",12,3,"callitula sp",3,2
+"GC",12,3,"Delphacodes",7,5
+"GC",12,3,"Linyphidae",19,9
+"GC",12,3,"long nose black beetle",1,1
+"GC",12,3,"Orobatid mite",10,6
+"GC",12,3,"Paraclius sp.",2,2
+"GC",12,3,"Spathius sp.",1,1
+"GC",12,3,"Tytthus sp.",1,1
+"GC",12,5,"Cecidomyidae",4,4
+"GC",12,5,"Melampus bidentata",8,8
+"GC",12,5,"Orobatid mite",9,9
+"GC",12,5,"Spathius sp.",1,1
+"GC",12,5,NA,0,4
+"M",1,1,"Amphipoda",5,5
+"M",1,1,"Chloropidae",5,5
+"M",1,1,"Orobatid mite",1,1
+"M",1,1,"Venzilla parvus",1,1
+"M",1,1,NA,3,3
+"M",1,3,"Amphipoda",4,2
+"M",1,3,"Anurida maritima",1,1
+"M",1,3,"callitula sp",2,2
+"M",1,3,"Cecidomyidae",92,15
+"M",1,3,"Chaetopsis sp.",2,2
+"M",1,3,"Chloropidae",48,13
+"M",1,3,"Clubonia sp",8,3
+"M",1,3,"Delphacodes",10,6
+"M",1,3,"Naemia sp.",1,1
+"M",1,3,"Paraclius sp.",11,8
+"M",1,3,"Pardosa sp.",2,2
+"M",1,3,"Trigonotylus sp",1,1
+"M",1,3,"Tytthus sp.",0,1
+"M",1,5,"Anurida maritima",14,7
+"M",1,5,"callitula sp",1,1
+"M",1,5,"Chloropidae",14,8
+"M",1,5,"Cicadellidae",1,1
+"M",1,5,"Clubonia sp",5,4
+"M",1,5,"Delphacodes",1,1
+"M",1,5,"Hyposinga variabilis",2,2
+"M",1,5,"Ischnodemus badius",2,2
+"M",1,5,"Littorina littorea",1,1
+"M",1,5,"Mycetophilidae ",5,5
+"M",1,5,"Pardosa sp",1,1
+"M",1,5,"Tetragnatha sp",1,1
+"M",1,5,"Trigonotylus sp",2,2
+"M",1,5,"Tytthus sp.",1,1
+"M",1,5,"Venzilla parvus",1,1
+"M",2,1,"Amphipoda",18,5
+"M",2,1,"Cicadellidae",2,2
+"M",2,1,"Delphacodes",5,2
+"M",2,1,"Pardosa sp.",7,3
+"M",2,1,"Tetragnatha sp",1,1
+"M",2,1,"Trombid mite",5,3
+"M",2,1,"Tytthus sp.",1,1
+"M",2,1,"Venzilla parvus",11,5
+"M",2,3,"callitula sp",1,1
+"M",2,3,"Chloropidae",20,1
+"M",2,3,"Lenaphid spider",2,1
+"M",2,3,"Mycetophilidae ",2,1
+"M",2,3,"Pardosa sp",1,1
+"M",2,3,"Tytthus sp.",2,1
+"M",2,5,"Ochlerotatus sollicitans",1,1
+"M",2,5,"Paraclius sp.",2,1
+"M",2,5,NA,0,14
+"M",3,1,"Amphipoda",10,6
+"M",3,1,"Chloropidae",1,1
+"M",3,1,"Clubonia sp",3,3
+"M",3,1,"Delphacodes",9,4
+"M",3,1,"Erythrid mite",3,2
+"M",3,1,"Prokelisia sp",12,7
+"M",3,1,"Trombid mite",3,3
+"M",3,1,"Venzilla parvus",4,2
+"M",3,3,"callitula sp",2,2
+"M",3,3,"Chloropidae",3,3
+"M",3,3,"Paraclius sp.",1,1
+"M",3,3,"Tipulidae",1,1
+"M",3,3,NA,0,9
+"M",3,5,"Amphipoda",1,1
+"M",3,5,"Anurida maritima",9,4
+"M",3,5,"Black ant (Formicidae)",1,1
+"M",3,5,"callitula sp",4,4
+"M",3,5,"Chloropidae",17,11
+"M",3,5,"Clubonia sp",3,3
+"M",3,5,"Cyphon sp.",6,5
+"M",3,5,"Delphacodes",2,2
+"M",3,5,"Grammonota trivitatta",3,3
+"M",3,5,"Hebridae",1,1
+"M",3,5,"Hogna sp",2,2
+"M",3,5,"Hydrophilidae larvae",2,2
+"M",3,5,"Lasius",2,2
+"M",3,5,"Mycetophilidae ",4,3
+"M",3,5,"Ochlerotatus sollicitans",1,1
+"M",3,5,"Orobatid mite",3,3
+"M",3,5,"Paraclius sp.",3,3
+"M",3,5,"Pentatomidae",1,1
+"M",3,5,"Salticidae",4,4
+"M",3,5,"Trombid mite",8,3
+"M",3,5,"Tytthus sp.",3,3
+"M",4,1,"Amphipoda",50,14
+"M",4,1,"callitula sp",2,2
+"M",4,1,"Cecidomyidae",15,8
+"M",4,1,"Chloropidae",9,4
+"M",4,1,"Clubonia sp",6,4
+"M",4,1,"Delphacodes",7,5
+"M",4,1,"Linyphidae",1,1
+"M",4,1,"Marpissa sp",2,2
+"M",4,1,"Megamealus sp.",1,1
+"M",4,1,"Ochlerotatus sollicitans",1,1
+"M",4,1,"Orobatid mite",5,3
+"M",4,1,"Paraclius sp.",1,1
+"M",4,1,"Red spot spider",2,2
+"M",4,1,"Trombid mite",8,4
+"M",4,1,"Venzilla parvus",14,7
+"M",4,3,"Chaetopsis sp.",1,1
+"M",4,3,"Chloropidae",16,13
+"M",4,3,"Cousin Tyythus",1,1
+"M",4,3,"Hydrophilidae larvae",2,2
+"M",4,3,"Mycetophilidae ",1,1
+"M",4,3,"Ochlerotatus sollicitans",1,1
+"M",4,3,"Orobatid mite",1,1
+"M",4,3,"Paraclius sp.",5,5
+"M",4,3,"Winged cousin tythus",1,1
+"M",4,5,"Amphipoda",1,1
+"M",4,5,"callitula sp",1,1
+"M",4,5,"Chloropidae",46,15
+"M",4,5,"Ochlerotatus sollicitans",1,1
+"M",4,5,"Orobatid mite",1,1
+"M",4,5,"Paraclius sp.",1,1
+"M",4,5,NA,0,3
+"M",5,1,"Amphipoda",36,13
+"M",5,1,"Clubonia sp",3,1
+"M",5,1,"Delphacodes",9,4
+"M",5,1,"Erythrid mite",30,10
+"M",5,1,"Grammonota trivitatta",5,2
+"M",5,1,"Hyposinga variabilis",2,1
+"M",5,1,"Linyphidae",11,4
+"M",5,1,"Megamealus sp.",2,1
+"M",5,1,"Orobatid mite",34,9
+"M",5,1,"Pardosa sp.",14,7
+"M",5,1,"Prokelisia sp",3,3
+"M",5,1,"Trombid mite",22,6
+"M",5,1,"Venzilla parvus",23,9
+"M",5,3,"callitula sp",6,5
+"M",5,3,"Cecidomyidae",26,9
+"M",5,3,"Chloropidae",18,12
+"M",5,3,"Cicadellidae",36,12
+"M",5,3,"Clubonia sp",1,1
+"M",5,3,"Dolichopodidae",1,1
+"M",5,3,"Hydrophilidae larvae",2,2
+"M",5,3,"Long antenna true bug",1,1
+"M",5,3,"Ochlerotatus sollicitans",4,4
+"M",5,3,"Orobatid mite",1,1
+"M",5,3,"Paraclius sp.",3,3
+"M",5,3,"Prokelisia sp",1,1
+"M",5,3,"Tipula sp.",1,1
+"M",5,3,"Trigonotylus sp",3,2
+"M",6,1,"Amphipoda",1,1
+"M",6,1,"Cicadellidae",1,1
+"M",6,1,"Clubonia sp",1,1
+"M",6,1,"Delphacodes",2,2
+"M",6,1,"Erythrid mite",2,2
+"M",6,1,"Haplogonatopus",1,1
+"M",6,1,"Hyposinga variabilis",1,1
+"M",6,1,"Megamealus sp.",1,1
+"M",6,1,"Mycetophilidae ",1,1
+"M",6,1,"Pardosa sp.",10,7
+"M",6,1,"Prokelisia sp",5,4
+"M",6,1,"Red spot spider",1,1
+"M",6,1,"Salticidae",1,1
+"M",6,1,"Sesarma reticulatum",1,1
+"M",6,1,"Spotted spider",1,1
+"M",6,1,"Tineidae",1,1
+"M",6,1,"Trombid mite",6,4
+"M",6,1,"Venzilla parvus",6,6
+"M",6,1,NA,0,2
+"M",6,3,"Amphipoda",6,4
+"M",6,3,"callitula sp",2,2
+"M",6,3,"Cecidomyidae",2,2
+"M",6,3,"Chaetopsis sp.",1,1
+"M",6,3,"Chloropidae",23,10
+"M",6,3,"Cicadellidae",1,1
+"M",6,3,"Clubonia sp",1,1
+"M",6,3,"Delphacodes",28,11
+"M",6,3,"Erythrid mite",14,7
+"M",6,3,"Grammonota trivitatta",1,1
+"M",6,3,"Haplogonatopus",1,1
+"M",6,3,"Linyphidae",2,2
+"M",6,3,"Paraclius sp.",4,2
+"M",6,3,"Prokelisia sp",1,1
+"M",6,3,"Sesarma reticulatum",1,1
+"M",6,3,"Tineidae",1,1
+"M",6,3,"Trigonotylus sp",1,1
+"M",6,3,"Trombid mite",1,1
+"M",6,3,"Venzilla parvus",1,1
+"M",6,5,"Chloropidae",16,9
+"M",6,5,"Cyphon sp.",1,1
+"M",6,5,"Delphacodes",1,1
+"M",6,5,"Dolichopodidae",1,1
+"M",6,5,"Hydrophilidae larvae",2,1
+"M",6,5,"Megamealus sp.",4,3
+"M",6,5,"Orobatid mite",10,7
+"M",6,5,"Paraclius sp.",1,1
+"M",6,5,"Spotted spider",1,1
+"M",6,5,"Venzilla parvus",5,5
+"M",6,5,NA,0,2
+"M",7,3,"Amphipoda",75,18
+"M",7,3,"callitula sp",4,3
+"M",7,3,"Cecidomyidae",21,10
+"M",7,3,"Chloropidae",12,6
+"M",7,3,"Clubonia sp",2,2
+"M",7,3,"Delphacodes",15,8
+"M",7,3,"Hogna sp",1,1
+"M",7,3,"Linyphidae",9,5
+"M",7,3,"Melampus bidentata",1,1
+"M",7,3,"Ochlerotatus sollicitans",1,1
+"M",7,3,"Paraclius sp.",11,7
+"M",7,3,"Pardosa sp",1,1
+"M",7,3,"Tipula sp.",3,2
+"M",7,3,"Trombid mite",3,2
+"M",7,3,"Tytthus sp.",7,2
+"M",7,5,"Acrodactyla sp",4,3
+"M",7,5,"Amphipoda",1,1
+"M",7,5,"callitula sp",3,3
+"M",7,5,"Chaetopsis sp.",1,1
+"M",7,5,"Chloropidae",4,2
+"M",7,5,"Cicadellidae",1,1
+"M",7,5,"Cousin Tytthus",1,1
+"M",7,5,"Cyphon sp.",1,1
+"M",7,5,"Delphacodes",5,5
+"M",7,5,"Erythrid mite",1,1
+"M",7,5,"Gryllus sp.",3,2
+"M",7,5,"Hebridae",1,1
+"M",7,5,"Hyposinga variabilis",1,1
+"M",7,5,"Juv dragonfly",1,1
+"M",7,5,"Lasius",3,3
+"M",7,5,"Lenaphid spider",2,2
+"M",7,5,"Ochlerotatus sollicitans",4,3
+"M",7,5,"Orobatid mite",11,5
+"M",7,5,"Pardosa sp",4,3
+"M",7,5,"Pardosa sp.",4,3
+"M",7,5,"Prokelisia sp",2,2
+"M",7,5,"Tytthus sp.",1,1
+"M",7,5,"Unk mosquito",1,1
+"M",7,5,"Venzilla parvus",20,9
+"M",8,3,"Amphipoda",1,1
+"M",8,3,"callitula sp",4,4
+"M",8,3,"cecidomyidae",1,1
+"M",8,3,"Cecidomyidae",25,10
+"M",8,3,"Chloropidae",15,5
+"M",8,3,"delphacodes",3,1
+"M",8,3,"Delphacodes",40,13
+"M",8,3,"Erythrid mite",1,1
+"M",8,3,"Grammonota trivitatta",2,2
+"M",8,3,"linyphidae",1,1
+"M",8,3,"Linyphidae",1,1
+"M",8,3,"Orobatid mite",2,2
+"M",8,3,"paraclius sp.",1,1
+"M",8,3,"Paraclius sp.",7,6
+"M",8,3,"Pardosa sp.",1,1
+"M",8,3,"Prokelisia sp",9,3
+"M",8,3,"Tipula sp.",1,1
+"M",8,3,"Tytthus sp.",2,2
+"M",8,3,"Venzilla parvus",2,2
+"M",8,5,"Amphipoda",1,1
+"M",8,5,"Black ant (Formicidae)",12,5
+"M",8,5,"callitula sp",3,3
+"M",8,5,"cecidomyidae",1,1
+"M",8,5,"Cecidomyidae",5,4
+"M",8,5,"Chloropidae",5,5
+"M",8,5,"Cicadellidae",1,1
+"M",8,5,"Clubonia sp",5,4
+"M",8,5,"Cyphon sp.",1,1
+"M",8,5,"Delphacodes",13,7
+"M",8,5,"Erythrid mite",7,3
+"M",8,5,"Grammonota trivitatta",1,1
+"M",8,5,"Hogna sp",2,2
+"M",8,5,"Hyposinga variabilis",1,1
+"M",8,5,"Linyphidae",6,6
+"M",8,5,"Lygaeidae",1,1
+"M",8,5,"Orobatid mite",4,3
+"M",8,5,"Paraclius sp.",2,1
+"M",8,5,"Pardosa sp.",1,1
+"M",8,5,"Prokelisia sp",1,1
+"M",8,5,"Tytthus sp.",6,3
+"M",8,5,"Venzilla parvus",1,1
+"M",9,3,"Chaetopsis sp.",4,2
+"M",9,3,"Chloropidae",19,9
+"M",9,3,"Delphacodes",40,9
+"M",9,3,"Grammonota trivitatta",22,6
+"M",9,3,"Hyposinga variabilis",2,1
+"M",9,3,"Linyphidae",1,1
+"M",9,3,"Megamealus sp.",45,9
+"M",9,3,"Paraclius sp.",22,13
+"M",9,3,"Pardosa sp.",5,5
+"M",9,3,"Spathius sp.",1,1
+"M",9,3,"Tipulidae",1,1
+"M",9,3,"Trigonotylus sp",1,1
+"M",9,5,"Acrodactyla sp",1,1
+"M",9,5,"Amphipoda",9,4
+"M",9,5,"Anurida maritima",6,5
+"M",9,5,"callitula sp",10,9
+"M",9,5,"Chaetopsis sp.",7,3
+"M",9,5,"Chloropidae",14,7
+"M",9,5,"Clubonia sp",4,4
+"M",9,5,"Cyphon sp.",7,4
+"M",9,5,"Delphacodes",61,25
+"M",9,5,"Eriococcuc dennoi",3,1
+"M",9,5,"Erythrid mite",18,8
+"M",9,5,"Grammonota trivitatta",6,4
+"M",9,5,"Haplogonatopus",1,1
+"M",9,5,"Hogna sp",1,1
+"M",9,5,"Hyposinga variabilis",1,1
+"M",9,5,"Linyphidae",5,4
+"M",9,5,"Marpissa sp",2,2
+"M",9,5,"Megamealus sp.",16,9
+"M",9,5,"Melampus bidentata",12,8
+"M",9,5,"Mycetophilidae ",1,1
+"M",9,5,"Ochlerotatus sollicitans",2,2
+"M",9,5,"Orobatid mite",79,22
+"M",9,5,"Paraclius sp.",13,10
+"M",9,5,"Pardosa sp.",35,20
+"M",9,5,"Pentatomidae",1,1
+"M",9,5,"Prokelisia sp",43,13
+"M",9,5,"Red ant",1,1
+"M",9,5,"Salticidae",1,1
+"M",9,5,"Spotted spider",2,1
+"M",9,5,"Trigonotylus sp",2,2
+"M",9,5,"Tytthus sp.",6,3
+"M",9,5,"Venzilla parvus",47,19
+"M",10,1,"Amphipoda",2,2
+"M",10,1,"callitula sp",2,2
+"M",10,1,"Cecidomyidae",14,11
+"M",10,1,"Chaetopsis sp.",1,1
+"M",10,1,"Chloropidae",39,15
+"M",10,1,"Clubonia sp",2,2
+"M",10,1,"Delphacodes",3,3
+"M",10,1,"Hydrophilidae larvae",1,1
+"M",10,1,"Littorina littorea",18,7
+"M",10,1,"Orobatid mite",13,8
+"M",10,1,"Paraclius sp.",23,12
+"M",10,1,"Pseudoscorpiones",1,1
+"M",10,1,NA,0,1
+"M",10,3,"Amphipoda",4,4
+"M",10,3,"callitula sp",5,4
+"M",10,3,"Cecidomyidae",10,6
+"M",10,3,"Chaetopsis sp.",4,4
+"M",10,3,"Chloropidae",7,7
+"M",10,3,"Clubonia sp",5,4
+"M",10,3,"Delphacodes",31,17
+"M",10,3,"Dohrniphora sp",1,1
+"M",10,3,"Grammonota trivitatta",3,2
+"M",10,3,"Linyphidae",3,3
+"M",10,3,"Megamealus sp.",5,5
+"M",10,3,"Melampus bidentata",1,1
+"M",10,3,"Mycetophilidae ",1,1
+"M",10,3,"Ochlerotatus sollicitans",1,1
+"M",10,3,"Paraclius sp.",8,6
+"M",10,3,"Prokelisia sp",7,6
+"M",10,3,"Spathius sp.",1,1
+"M",10,3,"Tytthus sp.",1,1
+"M",10,3,"Venzilla parvus",3,3
+"M",10,5,"Black ant (Formicidae)",1,1
+"M",10,5,"Cecidomyidae",1,1
+"M",10,5,"Chloropidae",6,3
+"M",10,5,"Clubonia sp",1,1
+"M",10,5,"Dohrniphora sp",3,2
+"M",10,5,"Hogna sp",2,2
+"M",10,5,"Hyposinga variabilis",1,1
+"M",10,5,"Lenaphid spider",1,1
+"M",10,5,"Littorina littorea",1,1
+"M",10,5,"Orobatid mite",19,8
+"M",10,5,"Paraclius sp.",1,1
+"M",10,5,"Pardosa sp.",5,4
+"M",10,5,"Prokelisia sp",3,3
+"M",10,5,"Salticidae",2,2
+"M",10,5,"Spotted spider",5,4
+"M",10,5,"Tytthus sp.",2,2
+"M",10,5,"UNK Big mite (94)",3,2
+"M",10,5,"Venzilla parvus",3,3
+"M",11,3,"Amphipoda",2,2
+"M",11,3,"Anurida maritima",9,6
+"M",11,3,"callitula sp",4,3
+"M",11,3,"Chaetopsis sp.",2,2
+"M",11,3,"Chloropidae",3,1
+"M",11,3,"Cicadellidae",1,1
+"M",11,3,"Clubonia sp",4,3
+"M",11,3,"Delphacodes",92,19
+"M",11,3,"Grammonota trivitatta",4,2
+"M",11,3,"Hebridae",1,1
+"M",11,3,"Linyphidae",5,4
+"M",11,3,"Megamealus sp.",18,7
+"M",11,3,"Melampus bidentata",10,7
+"M",11,3,"Ochlerotatus sollicitans",1,1
+"M",11,3,"Orobatid mite",11,4
+"M",11,3,"Paraclius sp.",4,4
+"M",11,3,"Pardosa sp.",23,14
+"M",11,3,"Prokelisia sp",18,5
+"M",11,3,"Red ant",1,1
+"M",11,3,"Salticidae",2,2
+"M",11,3,"Spotted spider",1,1
+"M",11,3,"Venzilla parvus",7,6
+"M",11,5,"black ant (Formicidae)",1,1
+"M",11,5,"Black ant (Formicidae)",19,9
+"M",11,5,"callitula sp",1,1
+"M",11,5,"Cecidomyidae",3,2
+"M",11,5,"Chloropidae",2,2
+"M",11,5,"Clubonia sp",9,9
+"M",11,5,"Cyphon sp.",2,2
+"M",11,5,"Delphacodes",1,1
+"M",11,5,"Erythrid mite",3,3
+"M",11,5,"Hogna sp",2,2
+"M",11,5,"Hyposinga variabilis",1,1
+"M",11,5,"Linyphidae",5,5
+"M",11,5,"Lygaeidae",1,1
+"M",11,5,"Orobatid mite",5,4
+"M",11,5,"Pardosa sp.",2,2
+"M",11,5,"Prokelisia sp",1,1
+"M",11,5,"Salticidae",1,1
+"M",11,5,"Tytthus sp.",10,8
+"M",11,5,"Venzilla parvus",1,1
+"M",12,1,"callitula sp",1,1
+"M",12,1,"Cecidomyidae",1,1
+"M",12,1,"Chaetopsis sp.",4,4
+"M",12,1,"Chloropidae",1,1
+"M",12,1,"Delphacodes",3,2
+"M",12,1,"Littorina littorea",21,1
+"M",12,1,"Mycetophilidae ",1,1
+"M",12,1,"Pentatomidae",1,1
+"M",12,1,"Tipula sp.",1,1
+"M",12,5,"Amphipoda",2,2
+"M",12,5,"Anurida maritima",39,14
+"M",12,5,"Black ant (Formicidae)",1,1
+"M",12,5,"callitula sp",17,11
+"M",12,5,"Cecidomyidae",2,2
+"M",12,5,"Chloropidae",10,7
+"M",12,5,"Clubonia sp",15,6
+"M",12,5,"Cyphon sp.",2,2
+"M",12,5,"Delphacodes",44,16
+"M",12,5,"Grammonota trivitatta",11,5
+"M",12,5,"Hogna sp",1,1
+"M",12,5,"Hyposinga variabilis",1,1
+"M",12,5,"Lasius",2,2
+"M",12,5,"Linyphidae",4,4
+"M",12,5,"Mantis religiosa",1,1
+"M",12,5,"Megamealus sp.",1,1
+"M",12,5,"Mycetophilidae ",4,3
+"M",12,5,"Ochlerotatus sollicitans",1,1
+"M",12,5,"Orobatid mite",23,8
+"M",12,5,"other hyposinga",2,1
+"M",12,5,"Other hyposinga",7,4
+"M",12,5,"Paraclius sp.",1,1
+"M",12,5,"Pardosa sp",7,5
+"M",12,5,"Pardosa sp.",4,1
+"M",12,5,"Prokelisia sp",28,10
+"M",12,5,"Red spot spider",1,1
+"M",12,5,"Reduviidae",2,2
+"M",12,5,"Salticidae",1,1
+"M",12,5,"Tetragnatha sp",1,1
+"M",12,5,"Trombid mite",3,2
+"M",12,5,"Tytthus sp.",5,5
+"M",12,5,"Venzilla parvus",11,7
+"N",1,1,"Acrodactyla sp",2,2
+"N",1,1,"Amphipoda",7,7
+"N",1,1,"Anurida maritima",3,3
+"N",1,1,"Blue Larva?",4,1
+"N",1,1,"callitula sp",5,4
+"N",1,1,"Cecidomyidae",12,6
+"N",1,1,"Chaetopsis sp.",2,2
+"N",1,1,"Chloropidae",11,9
+"N",1,1,"Clubonia sp",19,11
+"N",1,1,"Delphacodes",10,6
+"N",1,1,"Dohrniphora sp",22,11
+"N",1,1,"Erythrid mite",1,1
+"N",1,1,"Grammonota trivitatta",9,7
+"N",1,1,"Hydrophilidae larvae",3,3
+"N",1,1,"Hyposinga variabilis",10,5
+"N",1,1,"Intercella sp.",3,1
+"N",1,1,"juvenile spider",1,1
+"N",1,1,"Littorina littorea",2,2
+"N",1,1,"Marpissa sp",1,1
+"N",1,1,"Megamealus sp.",1,1
+"N",1,1,"Orobatid mite",9,3
+"N",1,1,"Paraclius sp.",4,3
+"N",1,1,"Pardosa sp.",9,6
+"N",1,1,"Prokelisia sp",2,2
+"N",1,1,"Pseudoscorpiones",1,1
+"N",1,1,"Reduviidae",4,4
+"N",1,1,"Sesarma reticulatum",4,3
+"N",1,1,"Thripidae sp.",1,1
+"N",1,1,"Trigonotylus sp",1,1
+"N",1,1,"Trombid mite",1,1
+"N",1,1,"Tytthus sp.",1,1
+"N",1,1,"Unknown larva",1,1
+"N",1,1,NA,0,1
+"N",1,3,"Amphipoda",30,8
+"N",1,3,"Black ant (Formicidae)",1,1
+"N",1,3,"callitula sp",3,2
+"N",1,3,"Chaetopsis sp.",3,2
+"N",1,3,"Chloropidae",10,5
+"N",1,3,"Cicadellidae",4,3
+"N",1,3,"Clubonia sp",14,7
+"N",1,3,"Delphacodes",32,10
+"N",1,3,"Dohrniphora sp",5,4
+"N",1,3,"Grammonota trivitatta",3,2
+"N",1,3,"Haplogonatopus",1,1
+"N",1,3,"Hidrophilidae larva",1,1
+"N",1,3,"Hyposinga variabilis",2,2
+"N",1,3,"Ischnodemus badius",2,2
+"N",1,3,"Linyphidae",10,5
+"N",1,3,"Littorina littorea",1,1
+"N",1,3,"Orobatid mite",10,5
+"N",1,3,"Paraclius sp",3,2
+"N",1,3,"Paraclius sp.",4,3
+"N",1,3,"Pardosa sp",5,3
+"N",1,3,"Pardosa sp.",19,6
+"N",1,3,"Prokelisia sp",10,5
+"N",1,3,"Red spot spider",1,1
+"N",1,3,"Reduviidae",4,4
+"N",1,3,"Trombid mite",2,2
+"N",1,3,"Venzilla parvus",4,2
+"N",1,5,"Anurida maritima",5,3
+"N",1,5,"callitula sp",16,9
+"N",1,5,"Cecidomyidae",2,2
+"N",1,5,"Chloropidae",26,11
+"N",1,5,"Cicadellidae",3,3
+"N",1,5,"Clubonia sp",41,11
+"N",1,5,"Conocephalus spartinae",1,1
+"N",1,5,"Delphacodes",50,11
+"N",1,5,"Haplogonatopus",2,2
+"N",1,5,"Hidrophilidae larva",3,3
+"N",1,5,"Hogna sp",1,1
+"N",1,5,"Hyposinga variabilis",4,3
+"N",1,5,"Linyphidae",8,6
+"N",1,5,"Megamealus sp.",1,1
+"N",1,5,"Naemia sp.",5,2
+"N",1,5,"Oniscidea Venzillus parvus",1,1
+"N",1,5,"Orobatid mite",84,10
+"N",1,5,"Pardosa sp",9,7
+"N",1,5,"Pentatomidae",74,10
+"N",1,5,"Prokelisia sp",37,10
+"N",1,5,"pyrrhocoridae sp",2,2
+"N",1,5,"Salticidae",1,1
+"N",1,5,"Strepsiptera (Elenchus)",3,2
+"N",1,5,"Thripidae sp.",7,3
+"N",1,5,"Trigonotylus sp",1,1
+"N",1,5,"Tytthus sp.",3,3
+"N",1,5,"Venzilla parvus",9,6
+"N",2,1,"Amphipoda",95,27
+"N",2,1,"callitula sp",3,3
+"N",2,1,"Cecidomyidae",80,29
+"N",2,1,"Chloropidae",4,2
+"N",2,1,"Cicadellidae",1,1
+"N",2,1,"Clubonia sp",57,26
+"N",2,1,"Dohrniphora sp",123,31
+"N",2,1,"Haplogonatopus",1,1
+"N",2,1,"Hyposinga variabilis",8,5
+"N",2,1,"Linyphidae",12,8
+"N",2,1,"Littorina littorea",1,1
+"N",2,1,"Paraclius sp.",7,6
+"N",2,1,"Prokelisia sp",177,33
+"N",2,1,"Sesarma reticulatum",1,1
+"N",2,1,"Trigonotylus sp",6,6
+"N",2,5,"Acrodactyla sp",1,1
+"N",2,5,"Amphipoda",1,1
+"N",2,5,"Anurida maritima",54,13
+"N",2,5,"Black ant (Formicidae)",1,1
+"N",2,5,"callitula sp",14,7
+"N",2,5,"Cecidomyidae",17,11
+"N",2,5,"Chaetopsis sp.",6,4
+"N",2,5,"Chloropidae",17,10
+"N",2,5,"Cicadellidae",5,4
+"N",2,5,"Clubonia sp",15,7
+"N",2,5,"Conocephalus spartinae",1,1
+"N",2,5,"Delphacodes",49,12
+"N",2,5,"Dohrniphora sp",21,11
+"N",2,5,"ephemeroptera???",1,1
+"N",2,5,"Erythrid mite",4,2
+"N",2,5,"Grammonota trivitatta",12,5
+"N",2,5,"Hyposinga variabilis",1,1
+"N",2,5,"Intercella sp.",1,1
+"N",2,5,"Lasius",2,2
+"N",2,5,"Lenaphid spider",2,2
+"N",2,5,"Megamealus sp.",13,9
+"N",2,5,"Orobatid mite",313,19
+"N",2,5,"Paraclius sp",3,3
+"N",2,5,"Paraclius sp.",7,6
+"N",2,5,"Pardosa sp",15,4
+"N",2,5,"Pardosa sp.",35,9
+"N",2,5,"Prokelisia sp",30,9
+"N",2,5,"pyrrhocoridae sp",1,1
+"N",2,5,"Reduviidae",2,2
+"N",2,5,"Trombid mite",3,2
+"N",2,5,"unknown leaf hopper",1,1
+"N",2,5,"Venzilla parvus",2,2
+"N",3,1,"Amphipoda",17,11
+"N",3,1,"Anurida maritima",50,16
+"N",3,1,"callitula sp",1,1
+"N",3,1,"Cecidomyidae",7,6
+"N",3,1,"Chloropidae",46,14
+"N",3,1,"Clubonia sp",4,3
+"N",3,1,"Cyphon sp.",1,1
+"N",3,1,"Delphacodes",5,3
+"N",3,1,"Dohrniphora sp",32,12
+"N",3,1,"hemiptera nymph",24,14
+"N",3,1,"Megamealus sp.",6,5
+"N",3,1,"Mycetophilidae ",1,1
+"N",3,1,"Orobatid mite",4,2
+"N",3,1,"Paraclius sp.",7,5
+"N",3,1,"Prokelisia sp",2,1
+"N",3,1,"Sesarma reticulatum",1,1
+"N",3,1,"Tipula sp.",1,1
+"N",3,1,"Unknown crab",10,6
+"N",3,3,"Amphipoda",9,5
+"N",3,3,"Clubonia ",1,1
+"N",3,3,"Clubonia sp",15,11
+"N",3,3,"Delphacodes",8,6
+"N",3,3,"Dohrniphora sp",9,8
+"N",3,3,"Grammonota trivitatta",36,15
+"N",3,3,"Hyposinga variabilis",89,24
+"N",3,3,"larvae diatizid",2,2
+"N",3,3,"Lenaphid spider",3,1
+"N",3,3,"Orobatid mite",3,3
+"N",3,3,"Paraclius sp",19,14
+"N",3,3,"Prokelisia sp",37,20
+"N",3,3,"tipula fuliginosa",5,5
+"N",3,5,"Cecidomyidae",1,1
+"N",3,5,"Chloropidae",25,15
+"N",3,5,"Cicadellidae",46,23
+"N",3,5,"Clubonia sp",44,22
+"N",3,5,"Delphacodes",31,17
+"N",3,5,"Dohrniphora sp",4,3
+"N",3,5,"Erythrid mite",1,1
+"N",3,5,"Haplogonatopus",9,6
+"N",3,5,"Hebridae",5,5
+"N",3,5,"Hogna sp",32,16
+"N",3,5,"Hyposinga variabilis",3,2
+"N",3,5,"Linyphidae",14,13
+"N",3,5,"Littorina littorea",2,2
+"N",3,5,"Megamealus sp.",25,20
+"N",3,5,"Naemia sp.",7,5
+"N",3,5,"Orobatid mite",19,15
+"N",3,5,"Pardosa sp",72,21
+"N",3,5,"Pentatomidae",26,17
+"N",3,5,"Prokelisia sp",64,29
+"N",3,5,"Reduviidae",1,1
+"N",3,5,"Salticidae",1,1
+"N",3,5,"Strepsiptera (Elenchus)",6,2
+"N",3,5,"UKN mosquito ",1,1
+"N",3,5,"Unknown fly",2,2
+"N",3,5,"unknown ladybug",2,1
+"N",3,5,"Unknown ladybug",4,3
+"N",3,5,"Unknown ladybug ",2,1
+"N",3,5,"Unknown mosquito",1,1
+"N",3,5,"Venzilla parvus",3,3
+"N",4,1,"Amphipoda",26,18
+"N",4,1,"Chloropidae",7,7
+"N",4,1,"Cicadellidae",3,3
+"N",4,1,"Clubonia sp",7,7
+"N",4,1,"Curculionidae",4,4
+"N",4,1,"Delphacodes",1,1
+"N",4,1,"Dohrniphora sp",11,10
+"N",4,1,"Haplogonatopus",2,2
+"N",4,1,"Hydrophilidae larvae",1,1
+"N",4,1,"Littorina littorea",8,7
+"N",4,1,"Paraclius sp",4,2
+"N",4,1,"Paraclius sp.",24,13
+"N",4,1,"Prokelisia sp",64,27
+"N",4,1,"Thripidae sp.",1,1
+"N",4,1,"Tytthus sp.",13,10
+"N",4,1,"Unknown crab",76,30
+"N",4,3,"Amphipoda",3,3
+"N",4,3,"Anurida maritima",1,1
+"N",4,3,"Chaetopsis sp.",9,8
+"N",4,3,"Chloropidae",24,13
+"N",4,3,"Clubonia sp",42,24
+"N",4,3,"Delphacodes",1,1
+"N",4,3,"Grammonota trivitatta",7,6
+"N",4,3,"Hidrophilidae larva",2,2
+"N",4,3,"Ischnodemus badius",7,6
+"N",4,3,"Linyphidae",25,15
+"N",4,3,"Littorina littorea",2,2
+"N",4,3,"Mycetophilidae ",1,1
+"N",4,3,"Paraclius sp",19,15
+"N",4,3,"Prokelisia sp",45,19
+"N",4,3,"Trigonotylus sp",4,4
+"N",4,5,"Black ant (Formicidae)",3,1
+"N",4,5,"Cecidomyidae",9,4
+"N",4,5,"Chaetopsis sp.",2,2
+"N",4,5,"Chloropidae",1,1
+"N",4,5,"Clubonia sp",11,6
+"N",4,5,"Curculionidae",1,1
+"N",4,5,"Delphacodes",32,12
+"N",4,5,"Dohrniphora sp",11,4
+"N",4,5,"Fly larvae",1,1
+"N",4,5,"Hebridae",1,1
+"N",4,5,"Intercella sp.",3,2
+"N",4,5,"Ischnodemus badius",1,1
+"N",4,5,"juv oyster",32,6
+"N",4,5,"Juv oyster",13,2
+"N",4,5,"Lenaphid spider",1,1
+"N",4,5,"Megamealus sp.",14,6
+"N",4,5,"Orobatid mite",73,11
+"N",4,5,"Paraclius sp.",11,7
+"N",4,5,"Pardosa sp",1,1
+"N",4,5,"Prokelisia sp",70,16
+"N",5,1,"Amphipoda",7,7
+"N",5,1,"Anurida maritima",32,18
+"N",5,1,"Brown mite",1,1
+"N",5,1,"callitula sp",30,15
+"N",5,1,"Cecidomyidae",5,4
+"N",5,1,"Chaetopsis sp.",4,2
+"N",5,1,"Chloropidae",81,25
+"N",5,1,"Cicadellidae",4,4
+"N",5,1,"Clubonia sp",71,20
+"N",5,1,"Delphacodes",97,21
+"N",5,1,"Dohrniphora sp",11,7
+"N",5,1,"Erythrid mite",1,1
+"N",5,1,"Grammonota trivitatta",28,12
+"N",5,1,"Haplogonatopus",2,2
+"N",5,1,"Hidrophilidae larva",7,4
+"N",5,1,"Hogna sp",4,4
+"N",5,1,"Hydrophilidae larvae",4,3
+"N",5,1,"Lenaphid spider",12,7
+"N",5,1,"Linyphidae",15,10
+"N",5,1,"Megamealus sp.",20,13
+"N",5,1,"Mycetophilidae ",1,1
+"N",5,1,"Oniscidea Venzillus parvus",2,1
+"N",5,1,"Orobatid mite",152,24
+"N",5,1,"Paraclius sp.",10,6
+"N",5,1,"Pardosa sp",67,22
+"N",5,1,"Pardosa sp.",1,1
+"N",5,1,"Pentatomidae",78,17
+"N",5,1,"Prokelisia sp",98,19
+"N",5,1,"pyrrhocoridae sp",1,1
+"N",5,1,"Salticidae",1,1
+"N",5,1,"Thripidae sp.",2,2
+"N",5,1,"Tipula sp.",1,1
+"N",5,1,"Trigonotylus sp",1,1
+"N",5,1,"Tytthus sp.",5,4
+"N",5,1,"Unknown Long legs short wings",1,1
+"N",5,1,"Venzilla parvus",16,12
+"N",5,1,"Ymenoptera ichneumonid",2,2
+"N",5,3,"Amphipoda",69,18
+"N",5,3,"Chloropidae",51,19
+"N",5,3,"Cicadellidae",188,26
+"N",5,3,"Clubonia sp",14,10
+"N",5,3,"Conocephalus spartinae",1,1
+"N",5,3,"Delphacodes",1371,33
+"N",5,3,"Haplogonatopus",1,1
+"N",5,3,"Hydrophilidae larvae",6,5
+"N",5,3,"Hyposinga variabilis",73,24
+"N",5,3,"Lenaphid spider",47,20
+"N",5,3,"Megamealus sp.",82,9
+"N",5,3,"Melampus bidentata",4,1
+"N",5,3,"Mycetophilidae ",4,4
+"N",5,3,"Naemia sp.",1,1
+"N",5,3,"NIGHT BUTTERFLY",1,1
+"N",5,3,"Pardosa sp",30,10
+"N",5,3,"Pentatomidae",8,5
+"N",5,3,"Prokelisia sp",891,33
+"N",5,3,"Trigonotylus sp",4,4
+"N",5,3,"Tytthus sp.",12,11
+"N",5,5,"Amphipoda",11,6
+"N",5,5,"Anurida maritima",2,1
+"N",5,5,"callitula sp",4,2
+"N",5,5,"Cecidomyidae",17,4
+"N",5,5,"Chloropidae",7,3
+"N",5,5,"Cicadellidae",1,1
+"N",5,5,"Clubonia sp",17,6
+"N",5,5,"Conocephalus spartinae",2,2
+"N",5,5,"Curculionidae",1,1
+"N",5,5,"Delphacodes",32,6
+"N",5,5,"Dohrniphora sp",13,7
+"N",5,5,"Erythrid mite",2,2
+"N",5,5,"Grammonota trivitatta",8,3
+"N",5,5,"Habronattus",1,1
+"N",5,5,"hemipterid x",2,1
+"N",5,5,"Hogna sp",1,1
+"N",5,5,"Hyposinga variabilis",8,3
+"N",5,5,"Intercella sp.",4,2
+"N",5,5,"Linyphidae",3,2
+"N",5,5,"Orobatid mite",42,7
+"N",5,5,"Paraclius sp",5,3
+"N",5,5,"Pardosa sp",72,5
+"N",5,5,"Pentatomidae",2,1
+"N",5,5,"Prokelisia sp",19,5
+"N",5,5,"Reduviidae",6,3
+"N",5,5,"Thripidae sp.",1,1
+"N",5,5,"Trombid mite",4,2
+"N",5,5,"unknown coleopterid",1,1
+"N",5,5,"Unknown crab",8,3
+"N",5,5,"Venzilla parvus",9,4
+"N",6,1,"Amphipoda",37,24
+"N",6,1,"Anurida maritima",41,17
+"N",6,1,"callitula sp",1,1
+"N",6,1,"Cecidomyidae",4,4
+"N",6,1,"Clubonia sp",52,27
+"N",6,1,"Dohrniphora sp",10,6
+"N",6,1,"Grammonota trivitatta",1,1
+"N",6,1,"Hyposinga variabilis",3,3
+"N",6,1,"Linyphidae",2,2
+"N",6,1,"Littorina littorea",18,13
+"N",6,1,"Orobatid mite",4,3
+"N",6,1,"Paraclius sp.",1,1
+"N",6,1,"Prokelisia sp",44,19
+"N",6,1,"Sesarma reticulatum",4,4
+"N",6,1,"Trigonotylus sp",1,1
+"N",6,1,"Trombid mite",1,1
+"N",6,3,"Amphipoda",91,25
+"N",6,3,"callitula sp",1,1
+"N",6,3,"Cecidomyidae",8,6
+"N",6,3,"Chaetopsis sp.",6,5
+"N",6,3,"Chloropidae",6,5
+"N",6,3,"Cicadellidae",1,1
+"N",6,3,"Clubonia sp",145,29
+"N",6,3,"Delphacodes",941,34
+"N",6,3,"Dohrniphora sp",16,11
+"N",6,3,"Erythrid mite",3,3
+"N",6,3,"Grammonota trivitatta",1,1
+"N",6,3,"Ischnodemus badius",2,2
+"N",6,3,"Linyphidae",23,17
+"N",6,3,"Littorina littorea",1,1
+"N",6,3,"Melampus bidentata",2,2
+"N",6,3,"Orobatid mite",30,17
+"N",6,3,"Paraclius sp",48,13
+"N",6,3,"Pardosa sp",75,29
+"N",6,3,"Pentatomidae",4,3
+"N",6,3,"Prokelisia sp",106,29
+"N",6,3,"Reduviidae",1,1
+"N",6,3,"Trigonotylus sp",8,7
+"N",6,3,"Trombid mite",1,1
+"N",6,3,"Unknown grasshopper ",7,6
+"N",6,5,"Anurida maritima",3,1
+"N",6,5,"callitula sp",4,4
+"N",6,5,"Chloropidae",14,10
+"N",6,5,"Clubonia sp",10,7
+"N",6,5,"Cyphon sp.",14,8
+"N",6,5,"Delphacodes",69,26
+"N",6,5,"Dohrniphora sp",1,1
+"N",6,5,"Erythrid mite",2,2
+"N",6,5,"Grammonota trivitatta",21,11
+"N",6,5,"Hyposinga variabilis",7,6
+"N",6,5,"Lasius",11,6
+"N",6,5,"Lenaphid spider",5,4
+"N",6,5,"Megamealus sp.",1,1
+"N",6,5,"Orabatis hemelius",9,5
+"N",6,5,"Orobatid mite",27,12
+"N",6,5,"Paraclius sp",1,1
+"N",6,5,"Paraclius sp.",1,1
+"N",6,5,"Prokelisia sp",46,22
+"N",6,5,"Sminthuridae",41,17
+"N",6,5,"Thripidae sp.",17,10
+"N",6,5,"Trombid mite",1,1
+"N",7,3,"Amphipoda",13,9
+"N",7,3,"Cecidomyidae",1,1
+"N",7,3,"Chaetopsis sp.",4,2
+"N",7,3,"Clubonia sp",11,5
+"N",7,3,"Conocephalus spartinae",13,8
+"N",7,3,"Delphacodes",419,19
+"N",7,3,"Dohrniphora sp",35,1
+"N",7,3,"Grammonota trivitatta",3,1
+"N",7,3,"Hogna sp",1,1
+"N",7,3,"Lenaphid spider",13,8
+"N",7,3,"Marpissa sp",3,1
+"N",7,3,"Megamealus sp.",383,19
+"N",7,3,"Melampus bidentata",1,1
+"N",7,3,"Mycetophilidae ",1,1
+"N",7,3,"Orobatid mite",7,5
+"N",7,3,"Paraclius sp.",133,13
+"N",7,3,"Pardosa sp",29,11
+"N",7,3,"Pardosa sp.",3,1
+"N",7,3,"Prokelisia sp",503,15
+"N",7,3,"Reduviidae",4,3
+"N",7,3,"Thripidae sp.",1,1
+"N",7,3,"Trigonotylus sp",1,1
+"N",7,3,"Trombid mite",1,1
+"N",7,3,"Tytthus sp.",15,11
+"N",7,3,"Unknown Morph",2,1
+"N",7,5,"Amphipoda",3,2
+"N",7,5,"Anurida maritima",9,6
+"N",7,5,"callitula sp",15,6
+"N",7,5,"Cecidomyidae",6,2
+"N",7,5,"Chloropidae",36,11
+"N",7,5,"Cicadellidae",3,3
+"N",7,5,"Clubonia sp",42,11
+"N",7,5,"Delphacodes",28,7
+"N",7,5,"Dohrniphora sp",3,2
+"N",7,5,"Erythrid mite",2,2
+"N",7,5,"Grammonota trivitatta",1,1
+"N",7,5,"Haplogonatopus",1,1
+"N",7,5,"Hidrophilidae larva",4,2
+"N",7,5,"Hogna sp",3,3
+"N",7,5,"Intercella sp.",4,2
+"N",7,5,"Iridescent fly",1,1
+"N",7,5,"Linyphidae",9,5
+"N",7,5,"Megamealus sp.",5,4
+"N",7,5,"Oniscidea Venzillus parvus",2,1
+"N",7,5,"Orobatid mite",82,12
+"N",7,5,"Pardosa sp",29,11
+"N",7,5,"Pentatomidae",52,9
+"N",7,5,"Prokelisia sp",42,10
+"N",7,5,"Salticidae",1,1
+"N",7,5,"Thripidae sp.",2,2
+"N",7,5,"Tytthus sp.",1,1
+"N",7,5,"UKN mosquito ",1,1
+"N",7,5,"UNK fly",2,2
+"N",7,5,"unknown 62",1,1
+"N",7,5,"unknown 63",2,2
+"N",7,5,"unknown coleopterid",1,1
+"N",7,5,"Unknown crab",1,1
+"N",7,5,"Venzilla parvus",11,8
+"N",8,1,"Acrodactyla sp",3,3
+"N",8,1,"Amphipoda",25,19
+"N",8,1,"Anurida maritima",48,15
+"N",8,1,"callitula sp",17,10
+"N",8,1,"Cecidomyidae",5,4
+"N",8,1,"Chaetopsis sp.",1,1
+"N",8,1,"Chloropidae",2,2
+"N",8,1,"Cicadellidae",2,2
+"N",8,1,"Clubonia sp",101,29
+"N",8,1,"Delphacodes",4,3
+"N",8,1,"Dohrniphora sp",51,19
+"N",8,1,"Grammonota trivitatta",9,6
+"N",8,1,"Hidrophilidae larva",0,1
+"N",8,1,"Hyposinga variabilis",10,2
+"N",8,1,"Instar nymph pentatomidae",2,1
+"N",8,1,"larvae diatizid",5,4
+"N",8,1,"Lenaphid spider",11,3
+"N",8,1,"Littorina littorea",11,8
+"N",8,1,"Marpissa sp",2,1
+"N",8,1,"Megamealus sp.",1,1
+"N",8,1,"Orobatid mite",17,8
+"N",8,1,"Paraclius sp.",5,4
+"N",8,1,"Pentatomidae",3,3
+"N",8,1,"Prokelisia sp",126,30
+"N",8,1,"Trigonotylus sp",1,1
+"N",8,5,"Acrodactyla sp",1,1
+"N",8,5,"Amphipoda",16,7
+"N",8,5,"callitula sp",69,18
+"N",8,5,"Cecidomyidae",34,13
+"N",8,5,"Chaetopsis sp.",3,3
+"N",8,5,"Chloropidae",33,11
+"N",8,5,"Cicadellidae",3,2
+"N",8,5,"Clubonia sp",8,7
+"N",8,5,"Coleoptera myxophaga",1,1
+"N",8,5,"Conocephalus spartinae",1,1
+"N",8,5,"Delphacodes",73,15
+"N",8,5,"Dohrniphora sp",43,14
+"N",8,5,"Erythrid mite",8,4
+"N",8,5,"Grammonota trivitatta",2,1
+"N",8,5,"Gryllus sp.",2,1
+"N",8,5,"Habronattus",8,4
+"N",8,5,"Haplogonatopus",1,1
+"N",8,5,"Hyposinga variabilis",8,6
+"N",8,5,"Intercella sp.",4,2
+"N",8,5,"Long legged mosquito",2,2
+"N",8,5,"Megamealus sp.",4,4
+"N",8,5,"Orobatid mite",227,19
+"N",8,5,"Paraclius sp.",11,7
+"N",8,5,"Pardosa sp",6,2
+"N",8,5,"Pardosa sp.",46,16
+"N",8,5,"Prokelisia sp",7,4
+"N",8,5,"Reduviidae",1,1
+"N",8,5,"Salticidae",4,3
+"N",8,5,"Sminthuridae",1,1
+"N",8,5,"Trombid mite",2,2
+"N",8,5,"Tytthus sp.",2,1
+"N",8,5,"unknown 52",1,1
+"N",8,5,"unknown hymenopterid",1,1
+"N",8,5,"Venzilla parvus",19,10
+"N",9,1,"Amphipoda",1,1
+"N",9,1,"callitula sp",7,7
+"N",9,1,"Cecidomyidae",8,8
+"N",9,1,"Chaetopsis sp.",1,1
+"N",9,1,"Chloropidae",6,5
+"N",9,1,"Clubonia sp",9,6
+"N",9,1,"Columbola sminthuriadae",5,4
+"N",9,1,"Cyphon sp.",1,1
+"N",9,1,"Delphacodes",7,4
+"N",9,1,"Dohrniphora sp",8,6
+"N",9,1,"Grammonota trivitatta",9,5
+"N",9,1,"hemiptera nymph",2,2
+"N",9,1,"Intercella sp.",2,2
+"N",9,1,"Lenaphid spider",1,1
+"N",9,1,"Linyphidae",2,1
+"N",9,1,"Megamealus sp.",4,4
+"N",9,1,"Paraclius sp.",8,6
+"N",9,1,"Pardosa sp.",1,1
+"N",9,1,"Prokelisia sp",13,6
+"N",9,1,"Reduviidae",1,1
+"N",9,1,"Tineidae",1,1
+"N",9,1,"Tytthus sp.",1,1
+"N",9,1,"Venzilla parvus",1,1
+"N",9,3,"Amphipoda",21,9
+"N",9,3,"Chaetopsis sp.",2,1
+"N",9,3,"Chloropidae",1,1
+"N",9,3,"Clubonia sp",40,16
+"N",9,3,"Delphacodes",375,16
+"N",9,3,"Dohrniphora sp",17,4
+"N",9,3,"Hydrophilidae larvae",3,2
+"N",9,3,"Lenaphid spider",13,8
+"N",9,3,"Megamealus sp.",375,16
+"N",9,3,"Mycetophilidae ",1,1
+"N",9,3,"Orobatid mite",1,1
+"N",9,3,"Paraclius sp.",26,10
+"N",9,3,"Pardosa sp",1,1
+"N",9,3,"Prokelisia sp",15,1
+"N",9,3,"Tytthus sp.",40,13
+"N",9,5,"Amphipoda",14,9
+"N",9,5,"Black ant (Formicidae)",70,9
+"N",9,5,"callitula sp",6,3
+"N",9,5,"Cecidomyidae",5,3
+"N",9,5,"Chaetopsis sp.",8,6
+"N",9,5,"Chloropidae",13,6
+"N",9,5,"Cicadellidae",5,2
+"N",9,5,"Clubonia sp",7,5
+"N",9,5,"Conocephalus spartinae",3,2
+"N",9,5,"Cyphon sp.",5,3
+"N",9,5,"Delphacodes",108,13
+"N",9,5,"Dohrniphora sp",2,1
+"N",9,5,"Erythrid mite",39,4
+"N",9,5,"Grammonota trivitatta",14,6
+"N",9,5,"Hyposinga variabilis",17,7
+"N",9,5,"Lenaphid spider",7,5
+"N",9,5,"Megamealus sp.",19,6
+"N",9,5,"Orobatid mite",188,11
+"N",9,5,"Paraclius sp.",12,7
+"N",9,5,"Pardosa sp",4,4
+"N",9,5,"Prokelisia sp",59,6
+"N",9,5,"Trombid mite",60,9
+"N",9,5,"Tytthus sp.",3,3
+"N",9,5,"Venzilla parvus",19,10
+"N",10,3,"Amphipoda",44,29
+"N",10,3,"Chaetopsis sp.",3,2
+"N",10,3,"Clubonia sp",3,1
+"N",10,3,"Conocephalus spartinae",4,4
+"N",10,3,"Delphacodes",1026,36
+"N",10,3,"Dohrniphora sp",22,14
+"N",10,3,"Lenaphid spider",20,13
+"N",10,3,"miridae tytthos",1,1
+"N",10,3,"Paraclius sp.",49,24
+"N",10,3,"Prokelisia sp",271,35
+"N",10,3,"Spathius sp.",2,2
+"N",10,3,"Tipula sp.",2,2
+"N",10,3,"Tytthus sp.",23,14
+"N",10,5,"Anurida maritima",1,1
+"N",10,5,"Black ant (Formicidae)",6,4
+"N",10,5,"callitula sp",9,7
+"N",10,5,"Chaetopsis sp.",14,9
+"N",10,5,"Clubonia sp",3,3
+"N",10,5,"Conocephalus spartinae",4,4
+"N",10,5,"Erythrid mite",2,2
+"N",10,5,"Hogna sp",7,3
+"N",10,5,"Lenaphid spider",6,6
+"N",10,5,"Megamealus sp.",3,2
+"N",10,5,"Orobatid mite",2,2
+"N",10,5,"Paraclius sp.",4,3
+"N",10,5,"Pardosa sp",33,12
+"N",10,5,"Trombid mite",3,3
+"N",10,5,"Venzilla parvus",8,7
+"N",11,1,"Amphipoda",14,12
+"N",11,1,"Anurida maritima",78,22
+"N",11,1,"callitula sp",5,5
+"N",11,1,"Cecidomyidae",18,13
+"N",11,1,"Chloropidae",20,13
+"N",11,1,"Cicadellidae",2,1
+"N",11,1,"Clubonia sp",13,9
+"N",11,1,"Delphacodes",16,6
+"N",11,1,"Dohrniphora sp",4,4
+"N",11,1,"Erythrid mite",3,2
+"N",11,1,"Grammonota trivitatta",17,8
+"N",11,1,"larvae diatizid",4,2
+"N",11,1,"Littorina littorea",3,3
+"N",11,1,"Marpissa sp",3,3
+"N",11,1,"Megamealus sp.",9,7
+"N",11,1,"Orobatid mite",58,19
+"N",11,1,"Paraclius sp",4,4
+"N",11,1,"Paraclius sp.",1,1
+"N",11,1,"Pentatomidae",16,13
+"N",11,1,"Prokelisia sp",21,12
+"N",11,1,"Trombid mite",5,1
+"N",11,1,"UNKNOWN FLY",1,1
+"N",11,1,"Venzilla parvus",5,4
+"N",11,3,"Amphipoda",11,7
+"N",11,3,"Anurida maritima",74,15
+"N",11,3,"callitula sp",3,2
+"N",11,3,"Chaetopsis sp.",1,1
+"N",11,3,"Chloropidae",7,5
+"N",11,3,"Cicadellidae",8,6
+"N",11,3,"Clubonia sp",18,6
+"N",11,3,"Conocephalus spartinae",1,1
+"N",11,3,"Cyphon sp.",1,1
+"N",11,3,"Delphacodes",131,14
+"N",11,3,"Flying black ant",1,1
+"N",11,3,"Hyposinga variabilis",8,7
+"N",11,3,"instar nymph pentatomidae",1,1
+"N",11,3,"Lenaphid spider",21,10
+"N",11,3,"Littorina littorea",1,1
+"N",11,3,"Megamealus sp.",8,3
+"N",11,3,"Mycetophilidae ",1,1
+"N",11,3,"Orobatid mite",26,4
+"N",11,3,"Pardosa sp",77,18
+"N",11,3,"Pentatomidae",19,4
+"N",11,3,"Prokelisia sp",42,11
+"N",11,3,"pyrrhocoridae sp",1,1
+"N",11,3,"Tipula sp.",3,3
+"N",11,3,"Trombid mite",23,12
+"N",11,3,"UKN mosquito ",1,1
+"N",11,3,"Venzilla parvus",14,5
+"N",11,5,"Amphipoda",7,4
+"N",11,5,"another moth",1,1
+"N",11,5,"callitula sp",11,5
+"N",11,5,"Chloropidae",67,26
+"N",11,5,"Cicadellidae",15,9
+"N",11,5,"Clubonia sp",6,3
+"N",11,5,"Conocephalus spartinae",1,1
+"N",11,5,"Cyphon sp.",1,1
+"N",11,5,"Delphacodes",28,8
+"N",11,5,"Hyposinga variabilis",2,2
+"N",11,5,"Ischnodemus badius",2,2
+"N",11,5,"Lasius",3,3
+"N",11,5,"Lenaphid spider",10,5
+"N",11,5,"Megamealus sp.",4,4
+"N",11,5,"Mycetophilidae ",2,2
+"N",11,5,"Oniscidea Venzillus parvus",1,1
+"N",11,5,"Pardosa sp",53,25
+"N",11,5,"Pardosa sp.",3,1
+"N",11,5,"Prokelisia sp",19,11
+"N",11,5,"Red spot spider",14,9
+"N",11,5,"Salticidae",2,2
+"N",11,5,"Trombid mite",11,9
+"N",11,5,"Tytthus sp.",1,1
+"N",11,5,"Venzilla parvus",4,4
+"N",12,1,"Acrodactyla sp",2,2
+"N",12,1,"Amphipoda",2,2
+"N",12,1,"Anurida maritima",12,6
+"N",12,1,"callitula sp",7,3
+"N",12,1,"Cecidomyidae",3,3
+"N",12,1,"Chaetopsis sp.",3,3
+"N",12,1,"Chloropidae",10,9
+"N",12,1,"Clubonia sp",13,9
+"N",12,1,"Collembola",2,1
+"N",12,1,"Conocephalus spartinae",1,1
+"N",12,1,"Delphacodes",14,9
+"N",12,1,"Dohrniphora sp",11,3
+"N",12,1,"Enallagma",1,1
+"N",12,1,"Erythrid mite",11,6
+"N",12,1,"Grammonota trivitatta",3,2
+"N",12,1,"Hyposinga variabilis",1,1
+"N",12,1,"Intercella sp.",21,4
+"N",12,1,"Larvae Elmidae beetle",1,1
+"N",12,1,"Littorina littorea",9,7
+"N",12,1,"Orobatid mite",29,15
+"N",12,1,"Paraclius sp.",4,4
+"N",12,1,"Pentatomidae",8,7
+"N",12,1,"Prokelisia sp",7,6
+"N",12,1,"Pseudoscorpiones",4,3
+"N",12,1,"Sminthuridae",5,4
+"N",12,1,"Trombid mite",1,1
+"N",12,3,"Amphipoda",47,19
+"N",12,3,"Anurida maritima",2,2
+"N",12,3,"callitula sp",1,1
+"N",12,3,"Chloropidae",19,7
+"N",12,3,"Clubonia sp",6,3
+"N",12,3,"Conocephalus spartinae",11,11
+"N",12,3,"Curculionidae",1,1
+"N",12,3,"Delphacodes",12,4
+"N",12,3,"Dohrniphora sp",32,10
+"N",12,3,"Erythrid mite",9,6
+"N",12,3,"Grammonota trivitatta",5,3
+"N",12,3,"Hogna sp",15,5
+"N",12,3,"Lenaphid spider",19,9
+"N",12,3,"Megamealus sp.",7,4
+"N",12,3,"Oniscidea Venzillus parvus",6,4
+"N",12,3,"Orobatid mite",125,18
+"N",12,3,"Paraclius sp.",8,4
+"N",12,3,"Pardosa sp",34,15
+"N",12,3,"Reduviidae",1,1
+"N",12,3,"Sesarma reticulatum",1,1
+"N",12,3,"Trombid mite",10,8
+"N",12,3,"Venzilla parvus",3,3
+"N",12,5,"Amphipoda",6,4
+"N",12,5,"callitula sp",12,6
+"N",12,5,"Chaetopsis sp.",1,1
+"N",12,5,"Chlorochroa senilis",2,2
+"N",12,5,"Chloropidae",4,1
+"N",12,5,"Cicadellidae",4,4
+"N",12,5,"Clubonia sp",3,2
+"N",12,5,"Conocephalus spartinae",6,2
+"N",12,5,"Cyphon sp.",1,1
+"N",12,5,"Delphacodes",34,12
+"N",12,5,"Dohrniphora sp",11,8
+"N",12,5,"Erythrid mite",1,1
+"N",12,5,"Grammonota trivitatta",11,2
+"N",12,5,"Hyposinga variabilis",3,3
+"N",12,5,"Lasius",1,1
+"N",12,5,"Linyphidae",13,8
+"N",12,5,"Mantis religiosa",1,1
+"N",12,5,"Megamealus sp.",1,1
+"N",12,5,"Melampus bidentata",1,1
+"N",12,5,"Mycetophilidae ",1,1
+"N",12,5,"Orobatid mite",10,6
+"N",12,5,"Paraclius sp.",1,1
+"N",12,5,"Pardosa sp.",53,13
+"N",12,5,"Prokelisia sp",3,1
+"N",12,5,"Trombid mite",11,6
+"N",12,5,"Tytthus sp.",1,1
+"N",12,5,"Venzilla parvus",7,6
+"PI",1,1,"Acrodactyla sp",4,4
+"PI",1,1,"Amphipoda",33,10
+"PI",1,1,"callitula sp",35,11
+"PI",1,1,"Clubonia sp",2,2
+"PI",1,1,"Dohrniphora sp",20,9
+"PI",1,1,"Intercella sp.",18,7
+"PI",1,1,"Linyphidae",5,4
+"PI",1,1,"Orobatid mite",4,3
+"PI",1,1,"Paraclius sp.",7,6
+"PI",1,1,"Prokelisia sp",10,5
+"PI",1,3,"Chloropidae",4,4
+"PI",1,3,"Delphacodes",4,4
+"PI",1,3,"Linyphidae",1,1
+"PI",1,3,"Orobatid mite",6,5
+"PI",1,3,"Pardosa sp.",1,1
+"PI",1,3,NA,0,4
+"PI",1,5,"Amphipoda",15,7
+"PI",1,5,"callitula sp",2,2
+"PI",1,5,"Chloropidae",7,5
+"PI",1,5,"Clubonia sp",4,3
+"PI",1,5,"Conocephalus spartinae",3,3
+"PI",1,5,"Hebridae",1,1
+"PI",1,5,"Linyphidae",2,2
+"PI",1,5,"Pardosa sp.",1,1
+"PI",1,5,"Prokelisia sp",6,5
+"PI",1,5,"Venzilla parvus",10,7
+"PI",2,1,"Amphipoda",7,4
+"PI",2,1,"callitula sp",27,11
+"PI",2,1,"Chaetopsis sp.",2,2
+"PI",2,1,"Clubonia sp",4,4
+"PI",2,1,"Dohrniphora sp",5,3
+"PI",2,1,"hemiptera nymph",11,6
+"PI",2,1,"Intercella sp.",5,3
+"PI",2,1,"Littorina littorea",1,1
+"PI",2,1,"Mycetophilidae ",17,6
+"PI",2,1,"Orobatid mite",5,4
+"PI",2,1,"Paraclius sp.",3,3
+"PI",2,1,"Pardosa sp.",9,8
+"PI",2,1,"Trigonotylus sp",12,8
+"PI",2,1,"Trombid mite",1,1
+"PI",2,3,"callitula sp",2,2
+"PI",2,3,"Cecidomyidae",12,9
+"PI",2,3,"Chloropidae",10,8
+"PI",2,3,"Delphacodes",2,2
+"PI",2,3,"long nose black beetle",1,1
+"PI",2,3,"Mycetophilidae ",1,1
+"PI",2,3,"Paraclius sp.",2,2
+"PI",2,3,"Pardosa sp.",3,3
+"PI",2,3,"Prokelisia sp",1,1
+"PI",2,3,"Salticidae",1,1
+"PI",2,5,"callitula sp",1,1
+"PI",2,5,"Cecidomyidae",3,3
+"PI",2,5,"Dolichopodidae",1,1
+"PI",2,5,"Erythrid mite",4,4
+"PI",2,5,"new red ant",1,1
+"PI",2,5,"Trombid mite",1,1
+"PI",2,5,NA,0,4
+"PI",3,1,"Acrodactyla sp",6,5
+"PI",3,1,"Amphipoda",22,11
+"PI",3,1,"callitula sp",2,2
+"PI",3,1,"Chloropidae",3,3
+"PI",3,1,"Cicadellidae",13,7
+"PI",3,1,"Clubonia sp",5,5
+"PI",3,1,"Intercella sp.",2,2
+"PI",3,1,"long nose black beetle",6,4
+"PI",3,1,"Paraclius sp.",2,2
+"PI",3,1,"Pardosa sp.",13,9
+"PI",3,3,"Amphipoda",1,1
+"PI",3,3,"callitula sp",1,1
+"PI",3,3,"Cecidomyidae",1,1
+"PI",3,3,"Chloropidae",13,6
+"PI",3,3,"Curculionidae",1,1
+"PI",3,3,"Delphacodes",2,2
+"PI",3,3,"Erythrid mite",9,5
+"PI",3,3,"Grammonota trivitatta",1,1
+"PI",3,3,"Linyphidae",7,4
+"PI",3,3,"Megamealus sp.",1,1
+"PI",3,3,"Orobatid mite",4,3
+"PI",3,3,"Paraclius sp.",3,2
+"PI",3,3,"Pardosa sp.",1,1
+"PI",3,3,"Prokelisia sp",1,1
+"PI",3,3,"Salticidae",2,1
+"PI",3,5,"Amphipoda",4,4
+"PI",3,5,"Clubonia sp",1,1
+"PI",3,5,"Delphacodes",3,3
+"PI",3,5,"Orobatid mite",2,2
+"PI",3,5,NA,0,5
+"PI",4,1,"callitula sp",2,2
+"PI",4,1,"Cecidomyidae",6,4
+"PI",4,1,"Chloropidae",3,2
+"PI",4,1,"Delphacodes",1,1
+"PI",4,1,"Erythrid mite",3,2
+"PI",4,1,"Grammonota trivitatta",6,4
+"PI",4,1,"Hyposinga variabilis",1,1
+"PI",4,1,"Linyphidae",2,1
+"PI",4,1,"Megamealus sp.",2,1
+"PI",4,1,"Orobatid mite",3,3
+"PI",4,1,"Paraclius sp.",1,1
+"PI",4,1,"Pardosa sp.",5,5
+"PI",4,1,"Prokelisia sp",1,1
+"PI",4,1,"Salticidae",1,1
+"PI",4,3,"callitula sp",13,9
+"PI",4,3,"Chaetopsis sp.",1,1
+"PI",4,3,"Clubonia sp",8,3
+"PI",4,3,"Dohrniphora sp",31,12
+"PI",4,3,"hemiptera nymph",14,6
+"PI",4,3,"Megamealus sp.",2,2
+"PI",4,3,"Mycetophilidae ",40,11
+"PI",4,3,"Orobatid mite",6,3
+"PI",4,3,"Trombid mite",4,3
+"PI",4,5,NA,0,1
+"PI",5,1,"Amphipoda",9,7
+"PI",5,1,"callitula sp",10,9
+"PI",5,1,"Cecidomyidae",21,15
+"PI",5,1,"Chloropidae",9,6
+"PI",5,1,"Clubonia sp",1,1
+"PI",5,1,"Delphacodes",4,4
+"PI",5,1,"Dohrniphora sp",1,1
+"PI",5,1,"Grammonota trivitatta",6,4
+"PI",5,1,"Orobatid mite",7,5
+"PI",5,1,"Paraclius sp.",3,3
+"PI",5,1,"Pardosa sp.",4,3
+"PI",5,3,"Amphipoda",2,2
+"PI",5,3,"callitula sp",8,6
+"PI",5,3,"Chloropidae",9,5
+"PI",5,3,"Clubonia sp",10,7
+"PI",5,3,"Conocephalus spartinae",1,1
+"PI",5,3,"Dohrniphora sp",43,6
+"PI",5,3,"hemiptera nymph",180,9
+"PI",5,3,"Mycetophilidae ",3,1
+"PI",5,3,"Orobatid mite",11,5
+"PI",5,3,"Paraclius sp.",4,4
+"PI",5,3,"Pardosa sp.",10,6
+"PI",5,3,"Prokelisia sp",836,11
+"PI",5,3,"Trombid mite",32,10
+"PI",5,3,"Venzilla parvus",15,8
+"PI",5,5,"Amphipoda",35,13
+"PI",5,5,"Armidillidiidae",4,4
+"PI",5,5,"callitula sp",17,10
+"PI",5,5,"Chaetopsis sp.",1,1
+"PI",5,5,"Cicadellidae",36,13
+"PI",5,5,"Clubonia sp",5,4
+"PI",5,5,"Conocephalus spartinae",3,2
+"PI",5,5,"Cyphon sp.",9,8
+"PI",5,5,"Dohrniphora sp",26,10
+"PI",5,5,"hemiptera nymph",22,12
+"PI",5,5,"Littorina littorea",5,5
+"PI",5,5,"Orabatis hemelius",2,1
+"PI",5,5,"Paraclius sp.",2,2
+"PI",5,5,"Pardosa sp.",9,7
+"PI",5,5,"Prokelisia sp",14,7
+"PI",6,1,"Amphipoda",33,11
+"PI",6,1,"Anurida maritima",3,2
+"PI",6,1,"callitula sp",17,7
+"PI",6,1,"Clubonia sp",13,9
+"PI",6,1,"Delphacodes",1,1
+"PI",6,1,"Dohrniphora sp",10,6
+"PI",6,1,"Haplogonatopus",1,1
+"PI",6,1,"hemiptera nymph",5,4
+"PI",6,1,"Littorina littorea",2,2
+"PI",6,1,"long nose black beetle",2,2
+"PI",6,1,"Melampus bidentata",2,2
+"PI",6,1,"Mycetophilidae ",4,4
+"PI",6,1,"Orobatid mite",20,9
+"PI",6,1,"Paraclius sp.",2,2
+"PI",6,1,"Pardosa sp.",3,3
+"PI",6,1,"Prokelisia sp",5,3
+"PI",6,1,"Trombid mite",2,2
+"PI",6,3,"Amphipoda",2,2
+"PI",6,3,"callitula sp",1,1
+"PI",6,3,"Cecidomyidae",1,1
+"PI",6,3,"Chloropidae",4,4
+"PI",6,3,"Conocephalus spartinae",4,3
+"PI",6,3,"Enallagma",2,2
+"PI",6,3,"Erythrid mite",1,1
+"PI",6,3,"Linyphidae",1,1
+"PI",6,3,"Paraclius sp.",1,1
+"PI",6,3,"Trombid mite",2,2
+"PI",6,3,NA,0,4
+"PI",6,5,"Chloropidae",2,2
+"PI",6,5,"Clubonia sp",2,2
+"PI",6,5,"Delphacodes",1,1
+"PI",6,5,"Erythrid mite",1,1
+"PI",6,5,"Grammonota trivitatta",3,3
+"PI",6,5,"Megamealus sp.",1,1
+"PI",6,5,"Orobatid mite",1,1
+"PI",6,5,"Pardosa sp.",1,1
+"PI",6,5,"Prokelisia sp",2,2
+"PI",6,5,NA,0,5
+"PI",7,1,"Amphipoda",10,6
+"PI",7,1,"callitula sp",1,1
+"PI",7,1,"Cecidomyidae",7,5
+"PI",7,1,"Chloropidae",16,8
+"PI",7,1,"Clubonia sp",16,7
+"PI",7,1,"Delphacodes",6,4
+"PI",7,1,"Hyposinga variabilis",1,1
+"PI",7,1,"Linyphidae",19,9
+"PI",7,1,"Littorina littorea",5,4
+"PI",7,1,"Paraclius sp.",6,3
+"PI",7,1,"Pardosa sp.",4,4
+"PI",7,1,"Prokelisia sp",2,1
+"PI",7,1,"Trigonotylus sp",2,1
+"PI",7,3,"callitula sp",8,5
+"PI",7,3,"Cecidomyidae",5,2
+"PI",7,3,"Chaetopsis sp.",2,1
+"PI",7,3,"Chloropidae",9,6
+"PI",7,3,"Clubonia sp",6,2
+"PI",7,3,"Delphacodes",2,2
+"PI",7,3,"Dohrniphora sp",13,7
+"PI",7,3,"Erythrid mite",4,2
+"PI",7,3,"Grammonota trivitatta",5,2
+"PI",7,3,"hemiptera nymph",6,3
+"PI",7,3,"Linyphidae",6,4
+"PI",7,3,"Megamealus sp.",2,2
+"PI",7,3,"Mycetophilidae ",12,5
+"PI",7,3,"Orobatid mite",4,3
+"PI",7,3,"Paraclius sp.",2,1
+"PI",7,3,"Pardosa sp.",4,2
+"PI",7,3,"Trombid mite",1,1
+"PI",7,5,"Amphipoda",9,6
+"PI",7,5,"Clubonia sp",6,5
+"PI",7,5,"Delphacodes",1,1
+"PI",7,5,"Erythrid mite",1,1
+"PI",7,5,"Habronattus",1,1
+"PI",7,5,"Megamealus sp.",3,3
+"PI",7,5,"Orobatid mite",7,6
+"PI",7,5,"Pardosa sp.",10,6
+"PI",7,5,"Trombid mite",4,3
+"PI",8,1,"Amphipoda",3,3
+"PI",8,1,"callitula sp",5,5
+"PI",8,1,"Cecidomyidae",3,3
+"PI",8,1,"Chloropidae",2,2
+"PI",8,1,"Orobatid mite",3,3
+"PI",8,1,"Paraclius sp.",3,3
+"PI",8,1,"Pardosa sp.",3,3
+"PI",8,3,"Conocephalus spartinae",1,1
+"PI",8,3,"long nose black beetle",1,1
+"PI",8,3,"Pardosa sp.",2,2
+"PI",8,3,"Prokelisia sp",2,2
+"PI",8,3,NA,0,12
+"PI",8,5,"Acrodactyla sp",1,1
+"PI",8,5,"Cecidomyidae",1,1
+"PI",8,5,"Chloropidae",1,1
+"PI",8,5,"Cicadellidae",1,1
+"PI",8,5,"Conocephalus spartinae",1,1
+"PI",8,5,"Erythrid mite",1,1
+"PI",8,5,"Grammonota trivitatta",3,3
+"PI",8,5,"Hyposinga variabilis",1,1
+"PI",8,5,"Megamealus sp.",3,3
+"PI",8,5,"Orobatid mite",2,2
+"PI",8,5,"Pardosa sp.",12,10
+"PI",8,5,"Prokelisia sp",3,3
+"PI",8,5,"Salticidae",2,2
+"PI",9,1,"Amphipoda",1,1
+"PI",9,1,"Anurida maritima",10,5
+"PI",9,1,"callitula sp",6,5
+"PI",9,1,"Chloropidae",4,3
+"PI",9,1,"Cicadellidae",10,2
+"PI",9,1,"Clubonia sp",6,6
+"PI",9,1,"Megamealus sp.",1,1
+"PI",9,1,"Mycetophilidae ",5,3
+"PI",9,1,"Orobatid mite",32,9
+"PI",9,1,"Paraclius sp.",6,4
+"PI",9,1,"Prokelisia sp",14,4
+"PI",9,1,"Trombid mite",8,6
+"PI",9,3,NA,0,1
+"PI",9,5,"Amphipoda",1,1
+"PI",9,5,"Chloropidae",5,5
+"PI",9,5,"Clubonia sp",1,1
+"PI",9,5,"Conocephalus spartinae",1,1
+"PI",9,5,"Delphacodes",3,3
+"PI",9,5,"Grammonota trivitatta",2,2
+"PI",9,5,"Hogna sp",3,3
+"PI",9,5,"Megamealus sp.",2,2
+"PI",9,5,"Orobatid mite",2,2
+"PI",9,5,"Pardosa sp.",3,3
+"PI",9,5,"Venzilla parvus",3,3
+"PI",10,1,"Amphipoda",20,8
+"PI",10,1,"Anurida maritima",2,1
+"PI",10,1,"callitula sp",10,5
+"PI",10,1,"Clubonia sp",3,3
+"PI",10,1,"Conocephalus spartinae",1,1
+"PI",10,1,"Dohrniphora sp",5,3
+"PI",10,1,"Intercella sp.",46,13
+"PI",10,1,"Littorina littorea",1,1
+"PI",10,1,"long nose black beetle",1,1
+"PI",10,1,"Megamealus sp.",4,3
+"PI",10,1,"Orobatid mite",11,7
+"PI",10,1,"Paraclius sp.",7,6
+"PI",10,1,"Pardosa sp.",4,3
+"PI",10,1,"Prokelisia sp",4,3
+"PI",10,1,"Trombid mite",2,2
+"PI",10,3,"Amphipoda",17,8
+"PI",10,3,"callitula sp",1,1
+"PI",10,3,"Cecidomyidae",67,15
+"PI",10,3,"Chloropidae",38,10
+"PI",10,3,"Clubonia sp",12,4
+"PI",10,3,"Conocephalus spartinae",6,4
+"PI",10,3,"Delphacodes",222,14
+"PI",10,3,"Grammonota trivitatta",5,3
+"PI",10,3,"hemiptera nymph",6,3
+"PI",10,3,"Linyphidae",13,7
+"PI",10,3,"Megamealus sp.",6,3
+"PI",10,3,"Orobatid mite",3,1
+"PI",10,3,"Paraclius sp.",6,5
+"PI",10,3,"Prokelisia sp",1431,14
+"PI",10,3,"Tytthus sp.",6,1
+"PI",10,3,"Venzilla parvus",2,2
+"PI",10,5,"Cicadellidae",19,9
+"PI",10,5,"Clubonia sp",1,1
+"PI",10,5,"Dohrniphora sp",4,3
+"PI",10,5,"hemiptera nymph",3,3
+"PI",10,5,"Intercella sp.",2,1
+"PI",10,5,"Mycetophilidae ",8,7
+"PI",10,5,"Orabatis hemelius",1,1
+"PI",10,5,"Orobatid mite",10,6
+"PI",10,5,"Paraclius sp.",2,2
+"PI",10,5,"Prokelisia sp",2,2
+"PI",10,5,"Trombid mite",2,2
+"PI",11,1,"Amphipoda",22,10
+"PI",11,1,"Anurida maritima",5,2
+"PI",11,1,"callitula sp",18,5
+"PI",11,1,"Clubonia sp",5,3
+"PI",11,1,"Columbola sminthuriadae",1,1
+"PI",11,1,"Conocephalus spartinae",1,1
+"PI",11,1,"Delphacodes",1,1
+"PI",11,1,"Intercella sp.",42,11
+"PI",11,1,"long nose black beetle",1,1
+"PI",11,1,"Orobatid mite",9,5
+"PI",11,1,"Paraclius sp.",5,3
+"PI",11,1,"Pardosa sp.",1,1
+"PI",11,1,"Prokelisia sp",3,2
+"PI",11,1,"Trigonotylus sp",1,1
+"PI",11,1,"Trombid mite",3,3
+"PI",11,1,NA,0,1
+"PI",11,3,"Black ant (Formicidae)",1,1
+"PI",11,3,"Caterpillar 1",1,1
+"PI",11,3,"Chloropidae",7,7
+"PI",11,3,"Delphacodes",2,2
+"PI",11,3,"Grammonota trivitatta",1,1
+"PI",11,3,"Orobatid mite",8,7
+"PI",11,3,"Paraclius sp.",5,4
+"PI",11,3,"Venzilla parvus",1,1
+"PI",11,5,"Amphipoda",1,1
+"PI",11,5,"Chaetopsis sp.",2,2
+"PI",11,5,"Chloropidae",5,5
+"PI",11,5,"Conocephalus spartinae",1,1
+"PI",11,5,"Delphacodes",2,2
+"PI",11,5,"Eriococcuc dennoi",1,1
+"PI",11,5,"Hyposinga variabilis",1,1
+"PI",11,5,"Paraclius sp.",2,2
+"PI",11,5,"Pardosa sp.",3,3
+"PI",11,5,"Trombid mite",3,3
+"PI",11,5,"Venzilla parvus",3,3
+"PI",11,5,NA,0,2
+"PI",12,1,"Acrodactyla sp",3,2
+"PI",12,1,"Amphipoda",161,15
+"PI",12,1,"callitula sp",20,5
+"PI",12,1,"Clubonia sp",11,7
+"PI",12,1,"Haplogonatopus",4,3
+"PI",12,1,"Intercella sp.",43,12
+"PI",12,1,"Littorina littorea",1,1
+"PI",12,1,"long nose black beetle",8,5
+"PI",12,1,"Megamealus sp.",30,11
+"PI",12,1,"Mycetophilidae ",27,8
+"PI",12,1,"Orobatid mite",43,13
+"PI",12,1,"Paraclius sp.",8,5
+"PI",12,1,"Pardosa sp.",8,5
+"PI",12,1,"Trigonotylus sp",3,3
+"PI",12,3,"Amphipoda",2,1
+"PI",12,3,"Armidillidiidae",1,1
+"PI",12,3,"Clubonia sp",10,5
+"PI",12,3,"Conocephalus spartinae",5,5
+"PI",12,3,"Dohrniphora sp",6,5
+"PI",12,3,"hemiptera nymph",27,11
+"PI",12,3,"Orobatid mite",54,13
+"PI",12,3,"Pardosa sp.",1,1
+"PI",12,3,"Prokelisia sp",27,9
+"PI",12,3,"Trombid mite",14,9
+"PI",12,5,"Amphipoda",4,4
+"PI",12,5,"Chlorochroa senilis",1,1
+"PI",12,5,"Chloropidae",3,3
+"PI",12,5,"Delphacodes",3,3
+"PI",12,5,"Eriococcuc dennoi",1,1
+"PI",12,5,"Hyposinga variabilis",1,1
+"PI",12,5,"Lasius",2,2
+"PI",12,5,"Linyphidae",1,1
+"PI",12,5,"Megamealus sp.",2,2
+"PI",12,5,"Pardosa sp.",3,3
+"PI",12,5,"Salticidae",1,1
+"PI",12,5,"Venzilla parvus",4,4
+"PI",12,5,NA,0,1
+"PI15",1,1,"callitula sp",1,1
+"PI15",1,1,"Chloropidae",20,13
+"PI15",1,1,"Delphacodes",4,3
+"PI15",1,1,"Naemia sp.",2,2
+"PI15",1,1,NA,0,2
+"PI15",1,3,"Cecidomyidae",1,1
+"PI15",1,3,"Chaetopsis sp.",3,2
+"PI15",1,3,"Cicadellidae",3,3
+"PI15",1,3,"Delphacodes",2,2
+"PI15",1,3,NA,0,8
+"PI15",1,5,"black white salticidae",2,1
+"PI15",1,5,"Delphacodes",4,4
+"PI15",1,5,"green eye fly",1,1
+"PI15",1,5,"Salticidae",1,1
+"PI15",1,5,"Spathius sp.",1,1
+"PI15",1,5,NA,0,8
+"PI15",2,1,"Chloropidae",8,5
+"PI15",2,1,"Delphacodes",2,2
+"PI15",2,1,"Naemia sp.",1,1
+"PI15",2,1,"Paraclius sp.",5,3
+"PI15",2,1,"Trigonotylus sp",10,8
+"PI15",2,1,NA,0,3
+"PI15",2,3,"Delphacodes",34,13
+"PI15",2,3,"Naemia sp.",1,1
+"PI15",2,3,NA,0,2
+"PI15",2,5,"Cecidomyidae",5,2
+"PI15",2,5,"Chaetopsis sp.",2,1
+"PI15",2,5,"Chloropidae",13,9
+"PI15",2,5,"Delphacodes",6,3
+"PI15",2,5,"Salticidae",2,2
+"PI15",2,5,"Spathius sp.",1,1
+"PI15",2,5,"Trombid mite",2,2
+"PI15",3,1,"Delphacodes",2,2
+"PI15",3,1,"Trombid mite",1,1
+"PI15",3,1,NA,0,13
+"PI15",3,3,"Chloropidae",2,2
+"PI15",3,3,"Delphacodes",8,8
+"PI15",3,3,"Mycetophilidae ",2,2
+"PI15",3,3,NA,0,4
+"PI15",3,5,"Chloropidae",7,7
+"PI15",3,5,NA,0,9
+"PI15",4,1,"Cecidomyidae",1,1
+"PI15",4,1,"Chloropidae",7,5
+"PI15",4,1,"Delphacodes",1,1
+"PI15",4,1,"Dohrniphora sp",1,1
+"PI15",4,1,"Flying black ant",2,1
+"PI15",4,1,"Orobatid mite",2,2
+"PI15",4,1,"Paraclius sp.",9,6
+"PI15",4,1,"Pardosa sp.",1,1
+"PI15",4,5,"Black ant (Formicidae)",1,1
+"PI15",4,5,"Blattodea",1,1
+"PI15",4,5,"Chloropidae",1,1
+"PI15",4,5,NA,0,13
+"PI15",5,1,"Amphipoda",15,9
+"PI15",5,1,"callitula sp",11,7
+"PI15",5,1,"Cecidomyidae",33,13
+"PI15",5,1,"Chaetopsis sp.",1,1
+"PI15",5,1,"Chloropidae",15,6
+"PI15",5,1,"Cicadellidae",11,6
+"PI15",5,1,"Delphacodes",7,4
+"PI15",5,1,"Orobatid mite",23,11
+"PI15",5,1,"Paraclius sp.",7,3
+"PI15",5,1,"Salticidae",1,1
+"PI15",5,1,"Trigonotylus sp",4,3
+"PI15",5,1,"Trombid mite",1,1
+"PI15",5,3,"Amphipoda",8,6
+"PI15",5,3,"callitula sp",3,2
+"PI15",5,3,"Cecidomyidae",3,1
+"PI15",5,3,"Chaetopsis sp.",2,2
+"PI15",5,3,"Cicadellidae",3,2
+"PI15",5,3,"Conocephalus spartinae",5,5
+"PI15",5,3,"Delphacodes",75,15
+"PI15",5,3,"Dohrniphora sp",1,1
+"PI15",5,3,"Grammonota trivitatta",1,1
+"PI15",5,3,"hemiptera nymph",8,3
+"PI15",5,3,"Paraclius sp.",5,3
+"PI15",5,3,"Pardosa sp.",1,1
+"PI15",5,3,"Salticidae",1,1
+"PI15",5,3,"Trombid mite",1,1
+"PI15",5,3,"Venzilla parvus",6,6
+"PI15",5,5,"Amphipoda",31,13
+"PI15",5,5,"Cicadellidae",5,5
+"PI15",5,5,NA,0,2
+"PI15",6,1,"Amphipoda",6,5
+"PI15",6,1,"callitula sp",3,2
+"PI15",6,1,"Cecidomyidae",8,5
+"PI15",6,1,"Chaetopsis sp.",2,2
+"PI15",6,1,"Chloropidae",6,5
+"PI15",6,1,"Cicadellidae",4,3
+"PI15",6,1,"Delphacodes",3,2
+"PI15",6,1,"Naemia sp.",1,1
+"PI15",6,1,"Orobatid mite",1,1
+"PI15",6,1,"Paraclius sp.",8,6
+"PI15",6,1,"Pardosa sp.",1,1
+"PI15",6,1,"Tipula sp.",1,1
+"PI15",6,1,"Trombid mite",1,1
+"PI15",6,1,NA,0,1
+"PI15",6,3,"Amphipoda",4,4
+"PI15",6,3,"Cecidomyidae",3,2
+"PI15",6,3,"Chloropidae",6,5
+"PI15",6,3,"Cicadellidae",2,2
+"PI15",6,3,"Grammonota trivitatta",1,1
+"PI15",6,3,"hemiptera nymph",17,6
+"PI15",6,3,"Naemia sp.",1,1
+"PI15",6,3,"Orobatid mite",44,9
+"PI15",6,3,"Pardosa sp.",5,4
+"PI15",6,3,"Prokelisia sp",2,1
+"PI15",6,3,"Trombid mite",7,2
+"PI15",6,5,"Amphipoda",1,1
+"PI15",6,5,"Black ant (Formicidae)",1,1
+"PI15",6,5,"callitula sp",1,1
+"PI15",6,5,"Chloropidae",2,2
+"PI15",6,5,"Gryllus sp.",0,1
+"PI15",6,5,"long abdomen salticidae",1,1
+"PI15",6,5,"Orobatid mite",4,4
+"PI15",6,5,"Pardosa sp.",4,4
+"PI15",6,5,"Spathius sp.",1,1
+"PI15",6,5,"Trombid mite",1,1
+"PI15",6,5,"Venzilla parvus",1,1
+"PI15",6,5,NA,0,5
+"PI15",7,3,"Amphipoda",1,1
+"PI15",7,3,"Anurida maritima",92,14
+"PI15",7,3,"callitula sp",3,2
+"PI15",7,3,"Cecidomyidae",6,2
+"PI15",7,3,"Chaetopsis sp.",1,1
+"PI15",7,3,"Chloropidae",173,12
+"PI15",7,3,"Cicadellidae",2,1
+"PI15",7,3,"Conocephalus spartinae",1,1
+"PI15",7,3,"Cyphon sp.",1,1
+"PI15",7,3,"Delphacodes",303,15
+"PI15",7,3,"Orobatid mite",94,15
+"PI15",7,3,"Pardosa sp.",6,4
+"PI15",7,3,"Trombid mite",6,4
+"PI15",7,5,"Amphipoda",6,6
+"PI15",7,5,"callitula sp",1,1
+"PI15",7,5,"Chloropidae",5,5
+"PI15",7,5,"Lasius",1,1
+"PI15",7,5,"Orobatid mite",15,12
+"PI15",8,1,"Amphipoda",27,13
+"PI15",8,1,"Cicadellidae",7,5
+"PI15",8,1,NA,0,2
+"PI15",9,1,"callitula sp",1,1
+"PI15",9,1,"Chaetopsis sp.",1,1
+"PI15",9,1,"Chloropidae",13,10
+"PI15",9,1,"Delphacodes",10,6
+"PI15",9,1,"Orobatid mite",5,5
+"PI15",9,1,"Paraclius sp.",2,1
+"PI15",9,3,"Acrodactyla sp",1,1
+"PI15",9,3,"callitula sp",15,6
+"PI15",9,3,"Cercyonis pegala",3,2
+"PI15",9,3,"Chaetopsis sp.",2,2
+"PI15",9,3,"Cicadellidae",2,2
+"PI15",9,3,"Conocephalus spartinae",6,6
+"PI15",9,3,"Dohrniphora sp",13,6
+"PI15",9,3,"Hebridae",16,9
+"PI15",9,3,"Paraclius sp.",3,2
+"PI15",9,3,"Prokelisia sp",368,14
+"PI15",9,5,"Amphipoda",10,8
+"PI15",9,5,"Cecidomyidae",7,4
+"PI15",9,5,"Chloropidae",9,5
+"PI15",9,5,"Conocephalus spartinae",4,4
+"PI15",9,5,"Delphacodes",19,13
+"PI15",9,5,"Gryllus sp.",1,1
+"PI15",9,5,"Venzilla parvus",1,1
+"PI15",10,1,"Amphipoda",43,11
+"PI15",10,1,"Linyphidae",35,11
+"PI15",10,1,"Mycetophilidae ",13,6
+"PI15",10,1,"Orobatid mite",9,6
+"PI15",10,1,"Paraclius sp.",15,12
+"PI15",10,1,"Prokelisia sp",33,10
+"PI15",10,1,"Pterostichus",1,1
+"PI15",10,1,"Trigonotylus sp",9,6
+"PI15",10,1,"Trombid mite",2,2
+"PI15",10,3,"Cecidomyidae",7,4
+"PI15",10,3,"Chaetopsis sp.",1,1
+"PI15",10,3,"Chloropidae",12,6
+"PI15",10,3,"Conocephalus spartinae",3,3
+"PI15",10,3,"Delphacodes",686,15
+"PI15",10,3,"Linyphidae",6,6
+"PI15",10,3,"Orobatid mite",22,5
+"PI15",10,3,"Paraclius sp.",2,2
+"PI15",10,3,"Trombid mite",15,10
+"PI15",10,5,"Amphipoda",1,1
+"PI15",10,5,"Anurida maritima",3,1
+"PI15",10,5,"Black ant (Formicidae)",1,1
+"PI15",10,5,"callitula sp",1,1
+"PI15",10,5,"Cecidomyidae",1,1
+"PI15",10,5,"Conocephalus spartinae",2,2
+"PI15",10,5,"Delphacodes",9,7
+"PI15",10,5,"Mycetophilidae ",1,1
+"PI15",10,5,"Orobatid mite",22,11
+"PI15",10,5,"Paraclius sp.",1,1
+"PI15",10,5,"Pardosa sp.",2,2
+"PI15",10,5,"Salticidae",1,1
+"PI15",10,5,"Spathius sp.",2,2
+"PI15",10,5,"Trombid mite",2,2
+"PI15",10,5,"Venzilla parvus",1,1
+"PI15",10,5,NA,0,1
+"PI15",11,1,"Amphipoda",6,3
+"PI15",11,1,"Cecidomyidae",7,6
+"PI15",11,1,"Chaetopsis sp.",4,3
+"PI15",11,1,"Chloropidae",12,8
+"PI15",11,1,"Melampus bidentata",12,7
+"PI15",11,1,"Orobatid mite",4,3
+"PI15",11,1,"Paraclius sp.",12,7
+"PI15",11,1,"Pardosa sp.",2,2
+"PI15",11,1,"Trigonotylus sp",1,1
+"PI15",11,5,"Cicadellidae",2,2
+"PI15",11,5,"Delphacodes",12,10
+"PI15",11,5,"Gryllus sp.",1,1
+"PI15",11,5,"Orobatid mite",6,6
+"PI15",11,5,"Prokelisia sp",1,1
+"PI15",11,5,NA,0,1
+"PI15",12,3,"Amphipoda",1,1
+"PI15",12,3,"Anurida maritima",125,14
+"PI15",12,3,"Cecidomyidae",8,4
+"PI15",12,3,"Cicadellidae",12,6
+"PI15",12,3,"Conocephalus spartinae",4,4
+"PI15",12,3,"Delphacodes",11,4
+"PI15",12,3,"hemiptera nymph",2,1
+"PI15",12,3,"Megamealus sp.",1,1
+"PI15",12,3,"Orobatid mite",145,14
+"PI15",12,3,"Paraclius sp.",3,3
+"PI15",12,3,"Pardosa sp.",1,1
+"PI15",12,3,"Prokelisia sp",1,1
+"PI15",12,3,"Spathius sp.",2,2
+"PI15",12,3,"Trombid mite",1,1
+"PI15",12,5,"Amphipoda",1,1
+"PI15",12,5,"Anurida maritima",102,14
+"PI15",12,5,"black white salticidae",2,2
+"PI15",12,5,"cecidomyidae",5,2
+"PI15",12,5,"Cecidomyidae",6,3
+"PI15",12,5,"Delphacodes",11,4
+"PI15",12,5,"orobatid mite",6,1
+"PI15",12,5,"Orobatid mite",78,14
+"SQ",1,1,"Amphipoda",2,2
+"SQ",1,1,"Anurida maritima",26,9
+"SQ",1,1,"callitula sp",1,1
+"SQ",1,1,"Dohrniphora sp",3,2
+"SQ",1,1,"Mycetophilidae ",2,1
+"SQ",1,1,"Paraclius sp.",2,2
+"SQ",1,1,"Trombid mite",1,1
+"SQ",1,1,NA,0,4
+"SQ",1,3,"Amphipoda",96,13
+"SQ",1,3,"Cicadellidae",5,5
+"SQ",1,3,"Clubonia sp",4,4
+"SQ",1,3,"Hebridae",28,10
+"SQ",1,3,"Intercella sp.",5,2
+"SQ",1,3,"Linyphidae",14,7
+"SQ",1,3,"Orobatid mite",178,13
+"SQ",1,3,"Paraclius sp.",1,1
+"SQ",1,3,"Trigonotylus sp",1,1
+"SQ",1,3,"Trombid mite",4,4
+"SQ",1,5,"Amphipoda",20,8
+"SQ",1,5,"Cecidomyidae",4,1
+"SQ",1,5,"Chaetopsis sp.",1,1
+"SQ",1,5,"Chloropidae",5,3
+"SQ",1,5,"Clubonia sp",8,5
+"SQ",1,5,"Conocephalus spartinae",1,1
+"SQ",1,5,"Erythrid mite",6,3
+"SQ",1,5,"Habronattus",2,2
+"SQ",1,5,"Lasius",4,2
+"SQ",1,5,"Linyphidae",8,4
+"SQ",1,5,"Orobatid mite",29,12
+"SQ",1,5,"Paraclius sp.",4,3
+"SQ",1,5,"Pardosa sp.",2,2
+"SQ",1,5,"Trombid mite",1,1
+"SQ",1,5,"Tytthus sp.",3,2
+"SQ",2,1,"Amphipoda",58,15
+"SQ",2,1,"Anurida maritima",275,15
+"SQ",2,1,"callitula sp",2,2
+"SQ",2,1,"Clubonia sp",2,1
+"SQ",2,1,"Dohrniphora sp",21,6
+"SQ",2,1,"Linyphidae",1,1
+"SQ",2,1,"Mycetophilidae ",13,6
+"SQ",2,1,"Orobatid mite",2,1
+"SQ",2,1,"Paraclius sp.",5,5
+"SQ",2,1,"Trombid mite",4,2
+"SQ",2,3,"Amphipoda",141,15
+"SQ",2,3,"callitula sp",1,1
+"SQ",2,3,"Cicadellidae",1,1
+"SQ",2,3,"Clubonia sp",10,7
+"SQ",2,3,"Hebridae",4,3
+"SQ",2,3,"Linyphidae",11,6
+"SQ",2,3,"Lygaeidae",1,1
+"SQ",2,3,"Mycetophilidae ",4,3
+"SQ",2,3,"Orobatid mite",10,9
+"SQ",2,3,"Pardosa sp.",3,3
+"SQ",2,3,"Trombid mite",4,4
+"SQ",2,3,"Venzilla parvus",2,2
+"SQ",2,5,"Amphipoda",15,10
+"SQ",2,5,"Cecidomyidae",1,1
+"SQ",2,5,"Chaetopsis sp.",2,2
+"SQ",2,5,"Chloropidae",4,4
+"SQ",2,5,"Clubonia sp",5,5
+"SQ",2,5,"Conocephalus spartinae",1,1
+"SQ",2,5,"Erythrid mite",6,3
+"SQ",2,5,"Habronattus",2,2
+"SQ",2,5,"Lasius",4,4
+"SQ",2,5,"Linyphidae",4,3
+"SQ",2,5,"Orobatid mite",65,14
+"SQ",2,5,"Paraclius sp.",4,4
+"SQ",2,5,"Pardosa sp.",2,2
+"SQ",2,5,"Trombid mite",5,2
+"SQ",2,5,"Tytthus sp.",2,2
+"SQ",3,1,"Amphipoda",31,8
+"SQ",3,1,"callitula sp",21,7
+"SQ",3,1,"Cecidomyidae",1,1
+"SQ",3,1,"Chloropidae",22,10
+"SQ",3,1,"Clubonia sp",17,8
+"SQ",3,1,"Delphacodes",44,11
+"SQ",3,1,"Haplogonatopus",1,1
+"SQ",3,1,"Hebridae",10,7
+"SQ",3,1,"Ischnodemus badius",3,2
+"SQ",3,1,"Linyphidae",7,5
+"SQ",3,1,"Megamealus sp.",7,3
+"SQ",3,1,"Melampus bidentata",2,1
+"SQ",3,1,"Mycetophilidae ",3,1
+"SQ",3,1,"Orobatid mite",28,6
+"SQ",3,1,"Paraclius sp.",2,2
+"SQ",3,1,"Prokelisia sp",3,2
+"SQ",3,1,"Spathius sp.",1,1
+"SQ",3,1,"Trigonotylus sp",2,2
+"SQ",3,1,"Tytthus sp.",5,2
+"SQ",3,3,"Amphipoda",135,15
+"SQ",3,3,"Anurida maritima",45,13
+"SQ",3,3,"Clubonia sp",4,3
+"SQ",3,3,"Dohrniphora sp",4,3
+"SQ",3,3,"Hebridae",5,3
+"SQ",3,3,"Lasius",1,1
+"SQ",3,3,"Mycetophilidae ",62,14
+"SQ",3,3,"Orobatid mite",4,3
+"SQ",3,3,"Paraclius sp.",3,3
+"SQ",3,3,"Prokelisia sp",11,7
+"SQ",3,3,"Trigonotylus sp",1,1
+"SQ",3,3,"Trombid mite",5,3
+"SQ",3,5,"Amphipoda",95,13
+"SQ",3,5,"callitula sp",7,5
+"SQ",3,5,"Clubonia sp",3,3
+"SQ",3,5,"Dohrniphora sp",6,3
+"SQ",3,5,"Linyphidae",9,7
+"SQ",3,5,"Mycetophilidae ",3,3
+"SQ",3,5,"Orobatid mite",76,13
+"SQ",3,5,"Paraclius sp.",8,5
+"SQ",3,5,"Pardosa sp.",6,4
+"SQ",3,5,"Prokelisia sp",3,3
+"SQ",3,5,"Spathius sp.",5,4
+"SQ",3,5,"Trombid mite",9,6
+"SQ",3,5,"Venzilla parvus",2,2
+"SQ",4,1,"Amphipoda",28,8
+"SQ",4,1,"callitula sp",3,3
+"SQ",4,1,"Cecidomyidae",3,3
+"SQ",4,1,"Chloropidae",5,5
+"SQ",4,1,"Clubonia sp",1,1
+"SQ",4,1,"Delphacodes",5,4
+"SQ",4,1,"Hebridae",3,3
+"SQ",4,1,"Ischnodemus badius",1,1
+"SQ",4,1,"Linyphidae",6,6
+"SQ",4,1,"Orobatid mite",7,5
+"SQ",4,1,"Paraclius sp.",11,10
+"SQ",4,1,"Spathius sp.",1,1
+"SQ",4,1,"Trigonotylus sp",1,1
+"SQ",4,1,"Trombid mite",3,3
+"SQ",4,3,"Amphipoda",43,10
+"SQ",4,3,"callitula sp",1,1
+"SQ",4,3,"Cicadellidae",11,8
+"SQ",4,3,"Clubonia sp",6,5
+"SQ",4,3,"Dohrniphora sp",10,6
+"SQ",4,3,"Gryllus sp.",1,1
+"SQ",4,3,"Hebridae",4,2
+"SQ",4,3,"Linyphidae",32,12
+"SQ",4,3,"Mycetophilidae ",9,5
+"SQ",4,3,"Orobatid mite",36,11
+"SQ",4,3,"Paraclius sp.",4,3
+"SQ",4,3,"Pardosa sp.",6,6
+"SQ",4,3,"Prokelisia sp",7,4
+"SQ",4,3,"Trombid mite",7,7
+"SQ",4,3,"Venzilla parvus",17,9
+"SQ",4,5,"Dohrniphora sp",3,3
+"SQ",4,5,"Lasius",4,3
+"SQ",4,5,"Linyphidae",3,3
+"SQ",4,5,"Mycetophilidae ",3,3
+"SQ",4,5,"Paraclius sp.",3,3
+"SQ",4,5,"Prokelisia sp",3,2
+"SQ",4,5,NA,0,3
+"SQ",5,1,"callitula sp",1,1
+"SQ",5,1,"Haplogonatopus",1,1
+"SQ",5,1,"Intercella sp.",9,6
+"SQ",5,1,"Orobatid mite",6,4
+"SQ",5,1,"Paraclius sp.",1,1
+"SQ",5,1,"Pardosa sp.",2,2
+"SQ",5,1,"Prokelisia sp",2,2
+"SQ",5,1,"Trigonotylus sp",3,2
+"SQ",5,1,"Trombid mite",1,1
+"SQ",5,1,NA,0,1
+"SQ",5,3,"Amphipoda",52,14
+"SQ",5,3,"callitula sp",10,7
+"SQ",5,3,"Clubonia sp",3,2
+"SQ",5,3,"Dohrniphora sp",1,1
+"SQ",5,3,"Hebridae",9,6
+"SQ",5,3,"Linyphidae",7,6
+"SQ",5,3,"Lygaeidae",1,1
+"SQ",5,3,"Mycetophilidae ",1,1
+"SQ",5,3,"Naemia sp.",1,1
+"SQ",5,3,"Noctuidae",1,1
+"SQ",5,3,"Orobatid mite",33,10
+"SQ",5,3,"Paraclius sp.",9,8
+"SQ",5,3,"Prokelisia sp",11,8
+"SQ",5,3,"Trigonotylus sp",1,1
+"SQ",5,3,"Trombid mite",1,1
+"SQ",5,5,"Amphipoda",50,14
+"SQ",5,5,"Chlorochroa senilis",1,1
+"SQ",5,5,"Chloropidae",22,10
+"SQ",5,5,"Cicadellidae",2,2
+"SQ",5,5,"Clubonia sp",3,3
+"SQ",5,5,"Delphacodes",22,10
+"SQ",5,5,"Gryllus sp.",3,3
+"SQ",5,5,"Lasius",10,6
+"SQ",5,5,"Linyphidae",2,2
+"SQ",5,5,"Melampus bidentata",5,5
+"SQ",5,5,"Mycetophilidae ",2,1
+"SQ",5,5,"Orobatid mite",30,10
+"SQ",5,5,"Pardosa sp.",7,6
+"SQ",5,5,"Prokelisia sp",7,5
+"SQ",5,5,"Venzilla parvus",2,2
+"SQ",6,1,"callitula sp",2,2
+"SQ",6,1,"Dohrniphora sp",3,2
+"SQ",6,1,"Linyphidae",3,2
+"SQ",6,1,"Orobatid mite",4,3
+"SQ",6,1,"Paraclius sp.",5,4
+"SQ",6,1,"Prokelisia sp",2,2
+"SQ",6,1,"Trigonotylus sp",9,6
+"SQ",6,1,"Trombid mite",1,1
+"SQ",6,1,NA,0,2
+"SQ",6,5,"Amphipoda",22,7
+"SQ",6,5,"callitula sp",16,6
+"SQ",6,5,"Clubonia sp",2,2
+"SQ",6,5,"Conocephalus spartinae",2,2
+"SQ",6,5,"Dohrniphora sp",30,9
+"SQ",6,5,"Gryllus sp.",1,1
+"SQ",6,5,"Lasius",3,3
+"SQ",6,5,"Linyphidae",4,3
+"SQ",6,5,"Melampus bidentata",1,1
+"SQ",6,5,"Mycetophilidae ",17,6
+"SQ",6,5,"Naemia sp.",1,1
+"SQ",6,5,"Orobatid mite",31,9
+"SQ",6,5,"Paraclius sp.",5,5
+"SQ",6,5,"Prokelisia sp",12,5
+"SQ",6,5,"Spathius sp.",5,4
+"SQ",6,5,"Trombid mite",2,2
+"SQ",6,5,"Venzilla parvus",1,1
+"SQ",7,1,"Amphipoda",4,2
+"SQ",7,1,"Anurida maritima",5,5
+"SQ",7,1,"Dohrniphora sp",10,5
+"SQ",7,1,"Linyphidae",1,1
+"SQ",7,1,"Mycetophilidae ",1,1
+"SQ",7,1,"Orobatid mite",8,5
+"SQ",7,1,"Paraclius sp.",8,6
+"SQ",7,1,"Prokelisia sp",5,4
+"SQ",7,1,"Trigonotylus sp",2,2
+"SQ",7,1,NA,0,4
+"SQ",7,3,"Amphipoda",25,10
+"SQ",7,3,"Cecidomyidae",2,1
+"SQ",7,3,"Chloropidae",22,8
+"SQ",7,3,"Cicadellidae",24,10
+"SQ",7,3,"Delphacodes",11,5
+"SQ",7,3,"Hyposinga variabilis",1,1
+"SQ",7,3,"Linyphidae",3,2
+"SQ",7,3,"Melampus bidentata",2,1
+"SQ",7,3,"Orobatid mite",13,6
+"SQ",7,3,"Paraclius sp.",7,5
+"SQ",7,3,"Prokelisia sp",1,1
+"SQ",7,3,"Trombid mite",10,5
+"SQ",7,3,"Venzilla parvus",1,1
+"SQ",7,5,"Cecidomyidae",3,2
+"SQ",7,5,"Chloropidae",10,8
+"SQ",7,5,"Hebridae",2,2
+"SQ",7,5,"Lasius",1,1
+"SQ",7,5,"Paraclius sp.",4,4
+"SQ",7,5,"Salticidae",4,4
+"SQ",7,5,NA,0,1
+"SQ",10,3,"Amphipoda",27,11
+"SQ",10,3,"callitula sp",3,3
+"SQ",10,3,"Cicadellidae",12,9
+"SQ",10,3,"Clubonia sp",4,3
+"SQ",10,3,"Dohrniphora sp",32,11
+"SQ",10,3,"Hebridae",7,4
+"SQ",10,3,"Linyphidae",4,3
+"SQ",10,3,"Orobatid mite",21,8
+"SQ",10,3,"Pardosa sp.",3,3
+"SQ",10,3,"Prokelisia sp",39,11
+"SQ",10,3,"Trombid mite",9,7
+"SQ",10,3,"Venzilla parvus",22,10
+"SQ",10,3,"Ymenoptera ichneumonid",3,3
+"SQ",10,5,"Cecidomyidae",3,2
+"SQ",10,5,"Chloropidae",14,10
+"SQ",10,5,"Hebridae",2,2
+"SQ",10,5,"lasius",1,1
+"SQ",10,5,"Lasius",3,3
+"SQ",10,5,"paraclius sp.",1,1
+"SQ",10,5,"Paraclius sp.",4,5
+"SQ",10,5,"Salticidae",3,3
+"SQ",11,1,"Cecidomyidae",21,13
+"SQ",11,1,"Chloropidae",18,12
+"SQ",11,1,"Cicadellidae",1,1
+"SQ",11,1,"Delphacodes",19,13
+"SQ",11,1,"Linyphidae",17,13
+"SQ",11,1,"Megamealus sp.",1,1
+"SQ",11,1,"Paraclius sp.",2,1
+"SQ",11,1,"Pardosa sp.",9,7
+"SQ",11,1,"prokelisia sp",1,1
+"SQ",11,1,"Prokelisia sp",2,2
+"SQ",11,1,"Venzilla parvus",2,2
+"SQ",11,3,"Amphipoda",15,11
+"SQ",11,3,"Cecidomyidae",5,4
+"SQ",11,3,"Chloropidae",7,6
+"SQ",11,3,"Cicadellidae",25,13
+"SQ",11,3,"Delphacodes",2,2
+"SQ",11,3,"Haplogonatopus",1,1
+"SQ",11,3,"Littorina littorea",2,2
+"SQ",11,3,"Megamealus sp.",1,1
+"SQ",11,3,"Melampus bidentata",1,1
+"SQ",11,3,"Orobatid mite",11,8
+"SQ",11,3,"Paraclius sp.",9,9
+"SQ",11,3,"Pardosa sp.",1,1
+"SQ",11,3,"Prokelisia sp",1,1
+"SQ",11,3,"Trigonotylus sp",1,1
+"SQ",11,3,"Trombid mite",4,4
+"SQ",11,3,"Tytthus sp.",1,1
+"SQ",11,3,"Venzilla parvus",3,3
+"SQ",11,5,"Amphipoda",16,9
+"SQ",11,5,"callitula sp",1,1
+"SQ",11,5,"Clubonia sp",2,2
+"SQ",11,5,"Coleoptera myxophaga",1,1
+"SQ",11,5,"Dohrniphora sp",18,11
+"SQ",11,5,"Hydrophilidae larvae",2,1
+"SQ",11,5,"Intercella sp.",1,1
+"SQ",11,5,"Linyphidae",9,7
+"SQ",11,5,"Melampus bidentata",3,3
+"SQ",11,5,"Paraclius sp.",7,4
+"SQ",11,5,"Pardosa sp.",12,5
+"SQ",11,5,"Prokelisia sp",49,14
+"SQ",11,5,"Trombid mite",2,2
+"SQ",11,5,"Venzilla parvus",11,9
+"SQ",11,5,"Ymenoptera ichneumonid",6,4
+"SQ",12,1,"Acrodactyla sp",2,2
+"SQ",12,1,"Amphipoda",25,11
+"SQ",12,1,"Black ant (Formicidae)",2,1
+"SQ",12,1,"callitula sp",11,4
+"SQ",12,1,"Cecidomyidae",11,5
+"SQ",12,1,"Chaetopsis sp.",2,2
+"SQ",12,1,"Chloropidae",35,11
+"SQ",12,1,"Clubonia sp",2,1
+"SQ",12,1,"Delphacodes",33,14
+"SQ",12,1,"long nose black beetle",1,1
+"SQ",12,1,"Megamealus sp.",9,7
+"SQ",12,1,"Mycetophilidae ",1,1
+"SQ",12,1,"Paraclius sp.",18,9
+"SQ",12,1,"Pardosa sp.",8,5
+"SQ",12,1,"Prokelisia sp",7,3
+"SQ",12,1,"Spathius sp.",2,2
+"SQ",12,1,"Trigonotylus sp",2,2
+"SQ",12,3,"Amphipoda",8,7
+"SQ",12,3,"Cecidomyidae",1,1
+"SQ",12,3,"Chloropidae",12,9
+"SQ",12,3,"Cicadellidae",14,11
+"SQ",12,3,"Delphacodes",12,10
+"SQ",12,3,"Hyposinga variabilis",1,1
+"SQ",12,3,"Linyphidae",6,4
+"SQ",12,3,"Orobatid mite",10,9
+"SQ",12,3,"Pardosa sp.",1,1
+"SQ",12,3,"Trombid mite",9,7
+"SQ",12,5,"Amphipoda",21,11
+"SQ",12,5,"callitula sp",2,2
+"SQ",12,5,"Cecidomyidae",1,1
+"SQ",12,5,"Chaetopsis sp.",3,3
+"SQ",12,5,"Chloropidae",9,5
+"SQ",12,5,"Cicadellidae",1,1
+"SQ",12,5,"Clubonia sp",3,2
+"SQ",12,5,"Conocephalus spartinae",1,1
+"SQ",12,5,"Cyphon sp.",1,1
+"SQ",12,5,"Delphacodes",18,9
+"SQ",12,5,"Hebridae",1,1
+"SQ",12,5,"Lasius",1,1
+"SQ",12,5,"Linyphidae",3,2
+"SQ",12,5,"Megamealus sp.",1,1
+"SQ",12,5,"Paraclius sp.",9,7
+"SQ",12,5,"Pardosa sp.",2,2
+"SQ",12,5,"Tytthus sp.",4,3
+"SQ",12,5,"Venzilla parvus",13,8
+"W",1,1,"Amphipoda",54,14
+"W",1,1,"Anurida maritima",1,1
+"W",1,1,"callitula sp",3,3
+"W",1,1,"Carcinus maenas",2,1
+"W",1,1,"Cecidomyidae",2,1
+"W",1,1,"Chaetopsis sp.",1,1
+"W",1,1,"Chloropidae",2,1
+"W",1,1,"Cicadellidae",2,2
+"W",1,1,"Clubonia sp",4,3
+"W",1,1,"Conocephalus spartinae",1,1
+"W",1,1,"Cyphon sp.",7,7
+"W",1,1,"Delphacodes",8,6
+"W",1,1,"Dohrniphora sp",1,1
+"W",1,1,"Grammonota trivitatta",4,3
+"W",1,1,"Linyphidae",14,9
+"W",1,1,"Littorina littorea",1,1
+"W",1,1,"Orobatid mite",1,1
+"W",1,1,"Paraclius sp.",2,2
+"W",1,1,"Prokelisia sp",9,3
+"W",1,1,"Trigonotylus sp",7,5
+"W",1,1,"Tytthus sp.",1,1
+"W",1,3,"Amphipoda",103,15
+"W",1,3,"Cecidomyidae",64,15
+"W",1,3,"Chloropidae",34,12
+"W",1,3,"Clubonia sp",26,12
+"W",1,3,"Delphacodes",46,13
+"W",1,3,"Hebridae",1,1
+"W",1,3,"hemiptera nymph",1,1
+"W",1,3,"Orobatid mite",65,12
+"W",1,3,"Paraclius sp.",38,14
+"W",1,3,"Prokelisia sp",4,1
+"W",1,3,"Tipula sp.",1,1
+"W",1,3,"Trigonotylus sp",3,2
+"W",1,3,"Trombid mite",3,3
+"W",1,3,"Tytthus sp.",5,4
+"W",1,5,"Amphipoda",7,3
+"W",1,5,"callitula sp",6,6
+"W",1,5,"Cecidomyidae",2,2
+"W",1,5,"Chloropidae",4,3
+"W",1,5,"Delphacodes",2,2
+"W",1,5,"Ischnodemus badius",2,2
+"W",1,5,"Lasius",4,4
+"W",1,5,"Orobatid mite",1,1
+"W",1,5,"Paraclius sp.",3,3
+"W",1,5,"Pardosa sp.",1,1
+"W",2,1,"Amphipoda",81,15
+"W",2,1,"Cecidomyidae",4,3
+"W",2,1,"Chloropidae",7,5
+"W",2,1,"Clubonia sp",1,1
+"W",2,1,"Delphacodes",7,5
+"W",2,1,"Grammonota trivitatta",1,1
+"W",2,1,"green eye fly",1,1
+"W",2,1,"Linyphidae",1,1
+"W",2,1,"Littorina littorea",1,1
+"W",2,1,"Orobatid mite",4,2
+"W",2,1,"Paraclius sp.",3,3
+"W",2,1,"Sesarma reticulatum",1,1
+"W",2,1,"Tytthus sp.",1,1
+"W",2,3,"Amphipoda",12,5
+"W",2,3,"Cecidomyidae",6,3
+"W",2,3,"Chloropidae",20,8
+"W",2,3,"Delphacodes",21,10
+"W",2,3,"Erythrid mite",3,2
+"W",2,3,"Grammonota trivitatta",1,1
+"W",2,3,"Littorina littorea",1,1
+"W",2,3,"Orobatid mite",17,9
+"W",2,3,"Paraclius sp.",13,8
+"W",2,3,"Prokelisia sp",2,1
+"W",2,3,"Tipula sp.",2,2
+"W",2,3,"Tipulidae",1,1
+"W",2,3,"Trigonotylus sp",2,2
+"W",2,3,"Trombid mite",2,1
+"W",2,5,"Amphipoda",5,4
+"W",2,5,"callitula sp",1,1
+"W",2,5,"Chaetopsis sp.",1,1
+"W",2,5,"Chloropidae",7,4
+"W",2,5,"Clubonia sp",4,4
+"W",2,5,"Cyphon sp.",1,1
+"W",2,5,"Delphacodes",3,3
+"W",2,5,"Lasius",3,3
+"W",2,5,"Noctuidae",1,1
+"W",2,5,"Orobatid mite",12,7
+"W",2,5,"Paraclius sp.",1,1
+"W",2,5,"Pardosa sp.",1,1
+"W",2,5,"Prokelisia sp",5,4
+"W",2,5,"pyrrhocoridae sp",1,1
+"W",2,5,"Tetragnatha sp",2,2
+"W",2,5,"Trombid mite",4,2
+"W",2,5,"Tytthus sp.",1,1
+"W",2,5,"Venzilla parvus",3,2
+"W",3,1,"callitula sp",3,2
+"W",3,1,"Clubonia sp",1,1
+"W",3,1,"Dohrniphora sp",3,2
+"W",3,1,"Linyphidae",4,4
+"W",3,1,"Mycetophilidae ",7,4
+"W",3,1,"Orobatid mite",5,4
+"W",3,1,"Paraclius sp.",1,1
+"W",3,1,"Prokelisia sp",16,6
+"W",3,1,"Trigonotylus sp",1,1
+"W",3,1,NA,0,3
+"W",3,3,"Cecidomyidae",17,10
+"W",3,3,"Chloropidae",17,10
+"W",3,3,"Delphacodes",2,2
+"W",3,3,"Mycetophilidae ",12,6
+"W",3,3,"Noctuidae",1,1
+"W",3,3,"Orobatid mite",1,1
+"W",3,3,"Paraclius sp.",6,6
+"W",3,3,NA,0,2
+"W",3,5,"Amphipoda",15,14
+"W",3,5,"Chloropidae",7,6
+"W",3,5,"Cyphon sp.",1,1
+"W",3,5,"Linyphidae",1,1
+"W",3,5,"Venzilla parvus",4,3
+"W",4,3,"Amphipoda",145,16
+"W",4,3,"Chaetopsis sp.",1,1
+"W",4,3,"Clubonia sp",3,1
+"W",4,3,"Delphacodes",20,13
+"W",4,3,"Ischnodemus badius",1,1
+"W",4,3,"Linyphidae",4,3
+"W",4,3,"Paraclius sp.",15,11
+"W",4,3,"Prokelisia sp",4,2
+"W",4,3,"Sesarma reticulatum",3,3
+"W",4,3,"Tetragnatha sp",1,1
+"W",4,3,"Trigonotylus sp",4,4
+"W",4,3,"Tytthus sp.",3,2
+"W",4,5,"Acantheperia stellata",1,1
+"W",4,5,"Amphipoda",7,6
+"W",4,5,"callitula sp",5,5
+"W",4,5,"Cecidomyidae",7,4
+"W",4,5,"Chaetopsis sp.",1,1
+"W",4,5,"Chloropidae",5,3
+"W",4,5,"Clubonia sp",5,5
+"W",4,5,"Cyphon sp.",3,2
+"W",4,5,"Delphacodes",3,3
+"W",4,5,"Lasius",7,5
+"W",4,5,"Noctuidae",1,1
+"W",4,5,"Orobatid mite",18,11
+"W",4,5,"Paraclius sp.",4,3
+"W",4,5,"Pardosa sp.",2,2
+"W",4,5,"Prokelisia sp",6,5
+"W",4,5,"pyrrhocoridae sp",1,1
+"W",4,5,"Tetragnatha sp",4,4
+"W",4,5,"Trombid mite",5,3
+"W",4,5,"Tytthus sp.",1,1
+"W",4,5,"Venzilla parvus",4,3
+"W",5,3,"Amphipoda",101,12
+"W",5,3,"callitula sp",1,1
+"W",5,3,"Cicadellidae",3,3
+"W",5,3,"Clubonia sp",6,4
+"W",5,3,"Dohrniphora sp",3,2
+"W",5,3,"Hebridae",2,2
+"W",5,3,"hemiptera nymph",1,1
+"W",5,3,"Littorina littorea",1,1
+"W",5,3,"Orobatid mite",1,1
+"W",5,3,"Paraclius sp.",12,9
+"W",5,3,"Pardosa sp.",2,1
+"W",5,3,"Prokelisia sp",14,9
+"W",5,3,"Trigonotylus sp",21,12
+"W",5,3,"Unknown crab",2,1
+"W",5,5,"Amphipoda",23,12
+"W",5,5,"Cecidomyidae",6,4
+"W",5,5,"Chaetopsis sp.",2,1
+"W",5,5,"Chloropidae",2,2
+"W",5,5,"Clubonia sp",4,3
+"W",5,5,"Cyphon sp.",1,1
+"W",5,5,"Delphacodes",4,3
+"W",5,5,"Dohrniphora sp",1,1
+"W",5,5,"Hyposinga variabilis",1,1
+"W",5,5,"Linyphidae",2,2
+"W",5,5,"Megamealus sp.",2,2
+"W",5,5,"Orobatid mite",11,7
+"W",5,5,"Paraclius sp.",2,2
+"W",5,5,"Pardosa sp.",2,2
+"W",5,5,"Prokelisia sp",20,5
+"W",5,5,"pyrrhocoridae sp",1,1
+"W",5,5,"Salticidae",1,1
+"W",5,5,"Sesarma reticulatum",1,1
+"W",5,5,"Trigonotylus sp",2,2
+"W",5,5,"Tytthus sp.",4,4
+"W",6,1,"Acrodactyla sp",1,1
+"W",6,1,"Amphipoda",24,10
+"W",6,1,"Cicadellidae",2,2
+"W",6,1,"Clubonia sp",2,2
+"W",6,1,"Dohrniphora sp",17,10
+"W",6,1,"Linyphidae",3,3
+"W",6,1,"Littorina littorea",16,6
+"W",6,1,"Mycetophilidae ",2,2
+"W",6,1,"Orobatid mite",1,1
+"W",6,1,"Paraclius sp.",17,10
+"W",6,1,"Prokelisia sp",16,9
+"W",6,1,"Trigonotylus sp",11,6
+"W",6,1,"Trombid mite",3,2
+"W",6,1,"Unknown crab",1,1
+"W",6,1,NA,0,1
+"W",6,3,"Amphipoda",19,9
+"W",6,3,"Cecidomyidae",13,5
+"W",6,3,"Chloropidae",7,4
+"W",6,3,"Cicadellidae",1,1
+"W",6,3,"Clubonia sp",12,6
+"W",6,3,"Delphacodes",15,9
+"W",6,3,"Grammonota trivitatta",9,5
+"W",6,3,"Haplogonatopus",1,1
+"W",6,3,"Linyphidae",4,4
+"W",6,3,"Megamealus sp.",1,1
+"W",6,3,"Mycetophilidae ",4,3
+"W",6,3,"Orobatid mite",4,2
+"W",6,3,"Paraclius sp.",3,3
+"W",6,3,"Prokelisia sp",9,5
+"W",6,3,"Trigonotylus sp",3,3
+"W",6,3,"Tytthus sp.",5,1
+"W",6,5,"Amphipoda",14,14
+"W",6,5,"Chloropidae",6,6
+"W",6,5,"Cyphon sp.",1,1
+"W",6,5,"Linyphidae",1,1
+"W",6,5,"Venzilla parvus",3,3
+"W",7,1,"Amphipoda",5,4
+"W",7,1,"Chloropidae",34,14
+"W",7,1,"Cicadellidae",1,1
+"W",7,1,"Conocephalus spartinae",1,1
+"W",7,1,"Delphacodes",2,2
+"W",7,1,"hemiptera nymph",1,1
+"W",7,1,"Linyphidae",2,1
+"W",7,1,"Mycetophilidae ",1,1
+"W",7,1,"Paraclius sp.",56,14
+"W",7,1,"Reduviidae",1,1
+"W",7,3,"Amphipoda",23,8
+"W",7,3,"callitula sp",2,2
+"W",7,3,"Chloropidae",25,13
+"W",7,3,"Cyphon sp.",5,5
+"W",7,3,"Delphacodes",11,7
+"W",7,3,"Linyphidae",14,9
+"W",7,3,"Megamealus sp.",4,3
+"W",7,3,"Orobatid mite",14,5
+"W",7,3,"Paraclius sp.",24,13
+"W",7,3,"Trigonotylus sp",12,8
+"W",7,3,"Trombid mite",10,6
+"W",7,5,"Amphipoda",30,14
+"W",7,5,"Chloropidae",17,6
+"W",7,5,"Cyphon sp.",3,1
+"W",7,5,"Linyphidae",4,2
+"W",7,5,"Orobatid mite",1,1
+"W",7,5,"Venzilla parvus",7,4
+"W",8,1,"Cecidomyidae",0,1
+"W",8,1,"Chloropidae",0,6
+"W",8,1,"Delphacodes",0,3
+"W",8,1,"Linyphidae",0,3
+"W",8,1,"Littorina littorea",0,1
+"W",8,1,"Mycetophilidae ",0,1
+"W",8,1,"Orobatid mite",0,2
+"W",8,1,"Paraclius sp.",0,9
+"W",8,1,"tick",0,1
+"W",8,3,"Amphipoda",19,10
+"W",8,3,"Cecidomyidae",25,10
+"W",8,3,"Chloropidae",7,4
+"W",8,3,"Cicadellidae",2,2
+"W",8,3,"Clubonia sp",12,7
+"W",8,3,"Delphacodes",14,10
+"W",8,3,"Grammonota trivitatta",17,8
+"W",8,3,"Haplogonatopus",1,1
+"W",8,3,"Linyphidae",2,1
+"W",8,3,"Littorina littorea",1,1
+"W",8,3,"Mycetophilidae ",3,3
+"W",8,3,"Orobatid mite",6,5
+"W",8,3,"Paraclius sp.",2,2
+"W",8,3,"Prokelisia sp",16,6
+"W",8,3,"Reduviidae",1,1
+"W",8,3,"Trigonotylus sp",7,6
+"W",8,3,"Trombid mite",1,1
+"W",8,3,"Tytthus sp.",2,2
+"W",8,5,"Black ant (Formicidae)",1,1
+"W",8,5,"Cecidomyidae",1,1
+"W",8,5,"Chloropidae",1,1
+"W",8,5,"Cicadellidae",1,1
+"W",8,5,"Clubonia sp",1,1
+"W",8,5,"Conura sp",1,1
+"W",8,5,"Delphacodes",1,1
+"W",8,5,"Hydrophilidae larvae",1,1
+"W",8,5,"Large abdomen salticidae",1,1
+"W",8,5,"Lasius",1,1
+"W",8,5,"lima bean moth",1,1
+"W",8,5,"Paraclius sp.",2,2
+"W",8,5,"Trombid mite",1,1
+"W",8,5,"Venzilla parvus",3,3
+"W",8,5,NA,0,2
+"W",9,1,"Amphipoda",34,12
+"W",9,1,"Chloropidae",8,5
+"W",9,1,"Dohrniphora sp",5,3
+"W",9,1,"Hebridae",3,3
+"W",9,1,"Linyphidae",17,11
+"W",9,1,"long nose black beetle",1,1
+"W",9,1,"Mycetophilidae ",5,3
+"W",9,1,"Paraclius sp.",22,11
+"W",9,1,"Trigonotylus sp",9,2
+"W",9,3,"Acrodactyla sp",0,1
+"W",9,3,"Amphipoda",0,15
+"W",9,3,"Cicadellidae",0,5
+"W",9,3,"Clubonia sp",0,5
+"W",9,3,"Conocephalus spartinae",0,1
+"W",9,3,"Dohrniphora sp",0,4
+"W",9,3,"Hebridae",0,2
+"W",9,3,"hemiptera nymph",0,3
+"W",9,3,"Linyphidae",0,9
+"W",9,3,"Littorina littorea",0,2
+"W",9,3,"Melampus bidentata",0,1
+"W",9,3,"Mycetophilidae ",0,1
+"W",9,3,"Noctuidae",0,1
+"W",9,3,"Orobatid mite",0,2
+"W",9,3,"Paraclius sp.",0,4
+"W",9,3,"Pardosa sp.",0,4
+"W",9,3,"Prokelisia sp",0,14
+"W",9,3,"Trigonotylus sp",0,6
+"W",9,3,"Unknown crab",0,1
+"W",9,5,"Acantheperia stellata",1,1
+"W",9,5,"Acrodactyla sp",1,1
+"W",9,5,"Amphipoda",13,7
+"W",9,5,"callitula sp",1,1
+"W",9,5,"Cecidomyidae",6,4
+"W",9,5,"Chloropidae",14,10
+"W",9,5,"Delphacodes",3,3
+"W",9,5,"Hogna sp",1,1
+"W",9,5,"Hyposinga variabilis",1,1
+"W",9,5,"Lasius",7,7
+"W",9,5,"Megamealus sp.",1,1
+"W",9,5,"Orobatid mite",46,10
+"W",9,5,"Paraclius sp.",3,3
+"W",9,5,"Pardosa sp.",1,1
+"W",9,5,"Prokelisia sp",1,1
+"W",9,5,"Tick",1,1
+"W",9,5,"Tytthus sp.",1,1
+"W",9,5,"Venzilla parvus",8,6
+"W",10,1,"Amphipoda",16,10
+"W",10,1,"Chaetopsis sp.",4,2
+"W",10,1,"Chloropidae",23,11
+"W",10,1,"Delphacodes",5,3
+"W",10,1,"Linyphidae",5,3
+"W",10,1,"Orobatid mite",8,4
+"W",10,1,"Paraclius sp.",15,10
+"W",10,1,"Trigonotylus sp",3,3
+"W",10,3,"Amphipoda",171,13
+"W",10,3,"Cecidomyidae",2,1
+"W",10,3,"Chloropidae",16,11
+"W",10,3,"Clubonia sp",23,11
+"W",10,3,"cousin tythus",2,1
+"W",10,3,"Cousin tythus",2,1
+"W",10,3,"Delphacodes",4,2
+"W",10,3,"green eye fly",1,1
+"W",10,3,"Linyphidae",12,10
+"W",10,3,"Megamealus sp.",2,2
+"W",10,3,"Orobatid mite",11,6
+"W",10,3,"Paraclius sp.",12,9
+"W",10,3,"Prokelisia sp",5,2
+"W",10,3,"Trombid mite",1,1
+"W",10,5,"Amphipoda",23,10
+"W",10,5,"Cecidomyidae",5,2
+"W",10,5,"Chloropidae",1,1
+"W",10,5,"Clubonia sp",2,1
+"W",10,5,"Delphacodes",7,7
+"W",10,5,"Grammonota trivitatta",8,4
+"W",10,5,"Haplogonatopus",1,1
+"W",10,5,"hemiptera nymph",3,2
+"W",10,5,"Linyphidae",1,1
+"W",10,5,"Orobatid mite",3,2
+"W",10,5,"Paraclius sp.",3,3
+"W",10,5,"Pardosa sp.",2,2
+"W",10,5,"Reduviidae",10,5
+"W",10,5,"Salticidae",1,1
+"W",10,5,"Tytthus sp.",10,8
+"W",10,5,"Venzilla parvus",2,2
+"W",11,1,"Amphipoda",11,7
+"W",11,1,"callitula sp",8,4
+"W",11,1,"Cecidomyidae",9,4
+"W",11,1,"Chaetopsis sp.",3,3
+"W",11,1,"Chloropidae",29,12
+"W",11,1,"Clubonia sp",5,3
+"W",11,1,"Curculionidae",1,1
+"W",11,1,"Cyphon sp.",1,1
+"W",11,1,"Delphacodes",7,5
+"W",11,1,"Dohrniphora sp",3,3
+"W",11,1,"Grammonota trivitatta",17,6
+"W",11,1,"Hebridae",1,1
+"W",11,1,"Linyphidae",15,8
+"W",11,1,"Littorina littorea",5,4
+"W",11,1,"Orobatid mite",3,1
+"W",11,1,"Paraclius sp.",4,4
+"W",11,1,"Prokelisia sp",7,3
+"W",11,1,"Tipulidae",1,1
+"W",11,1,"Trigonotylus sp",4,3
+"W",11,1,"Trombid mite",2,1
+"W",11,3,"Amphipoda",101,14
+"W",11,3,"callitula sp",3,3
+"W",11,3,"Clubonia sp",35,14
+"W",11,3,"Conocephalus spartinae",9,8
+"W",11,3,"Dohrniphora sp",20,8
+"W",11,3,"Hebridae",2,2
+"W",11,3,"hemiptera nymph",158,15
+"W",11,3,"Linyphidae",12,7
+"W",11,3,"Orobatid mite",19,11
+"W",11,3,"Paraclius sp.",17,10
+"W",11,3,"Prokelisia sp",50,14
+"W",11,3,"Tipula sp.",3,2
+"W",11,3,"Trigonotylus sp",11,9
+"W",11,3,"Trombid mite",1,1
+"W",11,5,"Amphipoda",21,13
+"W",11,5,"Cecidomyidae",1,1
+"W",11,5,"Chloropidae",8,6
+"W",11,5,"Clubonia sp",2,1
+"W",11,5,"Conocephalus spartinae",3,3
+"W",11,5,"Grammonota trivitatta",1,1
+"W",11,5,"Linyphidae",16,12
+"W",11,5,"Megamealus sp.",1,1
+"W",11,5,"Orobatid mite",5,2
+"W",11,5,"Paraclius sp.",1,1
+"W",11,5,"Pardosa sp.",2,2
+"W",11,5,"Tineidae",1,1
+"W",11,5,"Trombid mite",6,5
+"W",11,5,"Tytthus sp.",3,3
+"W",11,5,"Venzilla parvus",8,7
+"W",12,1,"Acrodactyla sp",2,1
+"W",12,1,"Amphipoda",6,6
+"W",12,1,"callitula sp",1,1
+"W",12,1,"Cecidomyidae",5,3
+"W",12,1,"Chloropidae",7,5
+"W",12,1,"Cicadellidae",1,1
+"W",12,1,"Clubonia sp",1,1
+"W",12,1,"Conocephalus spartinae",4,2
+"W",12,1,"Delphacodes",6,6
+"W",12,1,"Linyphidae",1,1
+"W",12,1,"Littorina littorea",1,1
+"W",12,1,"Paraclius sp.",8,6
+"W",12,1,"Prokelisia sp",3,2
+"W",12,1,"Trigonotylus sp",3,3
+"W",12,1,"Tytthus sp.",1,1
+"W",12,3,"Amphipoda",3,2
+"W",12,3,"Chloropidae",31,14
+"W",12,3,"Cicadellidae",1,1
+"W",12,3,"Conocephalus spartinae",1,1
+"W",12,3,"Delphacodes",1,1
+"W",12,3,"green eye fly",1,1
+"W",12,3,"hemiptera nymph",1,1
+"W",12,3,"Linyphidae",2,1
+"W",12,3,"Mycetophilidae ",1,1
+"W",12,3,"Paraclius sp.",39,13
+"W",12,3,"Reduviidae",1,1
+"W",12,3,"Trigonotylus sp",3,3
+"W",12,5,"Amphipoda",11,3
+"W",12,5,"callitula sp",1,1
+"W",12,5,"Chaetopsis sp.",2,1
+"W",12,5,"Chloropidae",12,4
+"W",12,5,"Clubonia sp",6,4
+"W",12,5,"Conocephalus spartinae",1,1
+"W",12,5,"Cyphon sp.",3,1
+"W",12,5,"Delphacodes",6,3
+"W",12,5,"green eye fly",1,1
+"W",12,5,"Lasius",6,3
+"W",12,5,"Orobatid mite",17,8
+"W",12,5,"Paraclius sp.",5,1
+"W",12,5,"Pardosa sp.",1,1
+"W",12,5,"Prokelisia sp",6,4
+"W",12,5,"pyrrhocoridae sp",1,1
+"W",12,5,"Tetragnatha sp",3,1
+"W",12,5,"Tineidae",1,1
+"W",12,5,"Trombid mite",8,2
+"W",12,5,"Tytthus sp.",1,1
+"W",12,5,"Venzilla parvus",3,2
